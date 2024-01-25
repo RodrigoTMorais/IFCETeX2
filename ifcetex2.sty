@@ -26,9 +26,10 @@
 
 % Define o espaço entre linhas para 1.5 cm
 %\OnehalfSpacing	Bug no ABNTEX2?
-\renewcommand{\baselinestretch}{1.5}
-
-%\OnehalfSpacing
+%\renewcommand{\baselinestretch}{1.5}
+%\DoubleSpacing
+\OnehalfSpacing
+%\SingleSpacing
 
 % Define as margens do documento
 \setlrmarginsandblock{3cm}{2cm}{*} % externa / interna
@@ -271,18 +272,21 @@ justification=justified}
 \provideboolean{ifcetex2@ehtccespecializacao}
 \provideboolean{ifcetex2@ehdissertacao}
 \provideboolean{ifcetex2@ehtese}
+\provideboolean{ifcetex2@ehppc}
 
 % Valores Iniciais
 \setboolean{ifcetex2@ehtese}{false}
 \setboolean{ifcetex2@ehdissertacao}{false}
 \setboolean{ifcetex2@ehtccespecializacao}{false}
 \setboolean{ifcetex2@ehtccgraduacao}{true}
+\setboolean{ifcetex2@ehppc}{false}
 
 \newcommand{\trabalhoacademico}[1]{
 	\setboolean{ifcetex2@ehtccgraduacao}{false}
 	\setboolean{ifcetex2@ehtccespecializacao}{false}
 	\setboolean{ifcetex2@ehdissertacao}{false}
 	\setboolean{ifcetex2@ehtese}{false}
+	\setboolean{ifcetex2@ehppc}{false}
 	
 	\ifthenelse{\equal{#1}{tccgraduacao}}{%
 		\setboolean{ifcetex2@ehtccgraduacao}{true}
@@ -296,11 +300,15 @@ justification=justified}
 				\ifthenelse{\equal{#1}{tese}}{%
 					\setboolean{ifcetex2@ehtese}{true}
 				}{
-					\setboolean{ifcetex2@ehdissertacao}{true}
+					\ifthenelse{\equal{#1}{ppc}}{%
+					\setboolean{ifcetex2@ehppc}{true}
+				}{
+						\setboolean{ifcetex2@ehdissertacao}{true}				
 				}
 			}
 		}	
 	}
+}
 }
 
 \AtBeginDocument{ %
@@ -492,6 +500,57 @@ justification=justified}
 \newcommand{\autordaepigrafe}{\def \@autordaepigrafe}
 \newcommand{\imprimirautordaepigrafe}{\@autordaepigrafe}
 
+% nomes para criação da folha de rosto para PPC (projeto pedagogico de curso)
+
+\newcommand{\reitor}{\def \@reitor}
+\newcommand{\imprimirreitor}{\@reitor}
+
+\newcommand{\proreitorensino}{\def \@proreitorensino}
+\newcommand{\imprimirproreitorensino}{\@proreitorensino}
+
+\newcommand{\proreitorpesquisa}{\def \@proreitorpesquisa}
+\newcommand{\imprimirproreitorpesquisa}{\@proreitorpesquisa}
+
+\newcommand{\proreitorextensao}{\def \@proreitorextensao}
+\newcommand{\imprimirproreitorextensao}{\@proreitorextensao}
+
+\newcommand{\proreitorgestaopessoas}{\def \@proreitorgestaopessoas}
+\newcommand{\imprimirproreitorgestaopessoas}{\@proreitorgestaopessoas}
+
+\newcommand{\proreitoradministracao}{\def \@proreitoradministracao}
+\newcommand{\imprimirproreitoradministracao}{\@proreitoradministracao}
+
+\newcommand{\diretorcampus}{\def \@diretorcampus}
+\newcommand{\imprimirdiretorcampus}{\@diretorcampus}
+
+\newcommand{\diretorensino}{\def \@diretorensino}
+\newcommand{\imprimirdiretorensino}{\@diretorensino}
+
+\newcommand{\coordenadorpedagogico}{\def \@coordenadorpedagogico}
+\newcommand{\imprimircoordenadorpedagogico}{\@coordenadorpedagogico}
+
+\newcommand{\chefedepartamentopesquisa}{\def \@chefedepartamentopesquisa}
+\newcommand{\imprimirchefedepartamentopesquisa}{\@chefedepartamentopesquisa}
+
+\newcommand{\chefedepartamentoextensao}{\def \@chefedepartamentoextensao}
+\newcommand{\imprimirchefedepartamentoextensao}{\@chefedepartamentoextensao}
+
+\newcommand{\coordenadorbiblioteca}{\def \@coordenadorbiblioteca}
+\newcommand{\imprimircoordenadorbiblioteca}{\@coordenadorbiblioteca}
+
+\newcommand{\coordenadordecurso}{\def \@coordenadordecurso}
+\newcommand{\imprimircoordenadordecurso}{\@coordenadordecurso}
+
+\newcommand{\nucleodocenteestruturante}{\def \@nucleodocenteestruturante}
+\newcommand{\imprimirnucleodocenteestruturante}{\@nucleodocenteestruturante}
+
+\newcommand{\colegiado}{\def \@colegiado}
+\newcommand{\imprimircolegiado}{\@colegiado}
+
+\newcommand{\curso}{\def \@curso}
+\newcommand{\imprimircurso}{\@curso}
+
+
 % Valor Padrão das Variáveis
 
 \autor{}
@@ -568,6 +627,7 @@ Trabalho de Conclusão de Curso de Especialização apresentado ao curso de Espe
 \newcommand{\preambulotccgraduacao}{
 Trabalho de Conclusão de Curso apresentado ao curso de \imprimirgraduacaoem\ do \imprimiries\ (\imprimiriessigla) - \imprimircentro\, como requisito parcial para obtenção do Título de \imprimirhabilitacao\ em \imprimirareadeconcentracaograduacao. \\
 }
+
 
 \preambulo{
 	\ifthenelse{\boolean{ifcetex2@ehqualificacao}}{ %
@@ -687,6 +747,39 @@ Trabalho de Conclusão de Curso apresentado ao curso de \imprimirgraduacaoem\ do
 	\end{capa}	
 }
 
+%imprime capa PPC
+
+\newcommand{\imprimircapappc}{%
+	\begin{capa}%
+		% Todos os elementos da capa devem esta centralizado
+		\center
+		% Todos os elementos da capa devem esta em negrito
+		\bfseries
+
+        \includegraphics[scale=0.4]{figuras/brasao-brasil} \\
+		\MakeUppercase{GOVERNO FEDERAL\\MINISTÉRIO DA EDUCAÇÃO\\
+SECRETARIA DE EDUCAÇÃO PROFISSIONAL E
+TECNOLÓGICA\\\imprimiries} \\
+		\MakeUppercase{\imprimiriessigla} \MakeUppercase{\imprimircentro} \\
+		%\MakeUppercase{\imprimirgraduacaoem} \\
+
+		%\vspace{\onelineskip}
+		
+		\vspace{3cm}
+
+		\MakeUppercase{Projeto Pedagógico de Curso}
+		
+		\vspace{3cm}
+		
+		\MakeUppercase{\imprimircurso}
+		
+		\vfill
+		\normalsize\MakeUppercase\imprimirlocal\par	
+		\normalsize\MakeUppercase\imprimirdata
+		
+	\end{capa}
+}
+
 \renewcommand{\imprimircapa}{%
 	% Toda capa deve ter pagina 0
 	
@@ -699,11 +792,16 @@ Trabalho de Conclusão de Curso apresentado ao curso de \imprimirgraduacaoem\ do
 			\ifthenelse{\boolean{ifcetex2@ehtccgraduacao}}{ %
 				\imprimircapatcc{Graduação}{\imprimirgraduacaoem}	 %
 			}{
+				\ifthenelse{\boolean{ifcetex2@ehtccespecializacao}}{ %
 				\imprimircapatcc{Especialização}{\imprimirespecializacaoem} %
+			}{
+				\imprimircapappc %
 			}
 		}
 	}
+	}
 	\setcounter{page}{0}
+
 }
 
 % Folha de Rosto
@@ -1028,6 +1126,95 @@ Trabalho de Conclusão de Curso apresentado ao curso de \imprimirgraduacaoem\ do
 }{ %
 	\end{list} %
 } %
+
+%imprimir folha de rosto PPC
+\newcommand{\imprimirfolhaderostoppc}{
+
+
+		% Todos os elementos da capa devem esta centralizado
+		\center
+		% Todos os elementos da capa devem esta em negrito
+		\bfseries{
+
+        \includegraphics[scale=0.15]{figuras/logo-ifce} \\
+		\MakeUppercase{\imprimiries} 
+		\MakeUppercase{\imprimiriessigla} \MakeUppercase{\imprimircentro} \\
+		REITORIA}
+		
+	
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{Reitor}}\\
+		\imprimirreitor
+		
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{Pró-Reitor de Ensino}}\\
+		\imprimirproreitorensino
+
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{PRÓ-REITOR DE PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO}}\\
+		\imprimirproreitorpesquisa		
+
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{PRÓ-REITOR DE EXTENSÃO}}\\
+		\imprimirproreitorextensao
+		
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{PRÓ-REITOR DE GESTÃO DE PESSOAS}}\\
+		\imprimirproreitorgestaopessoas
+
+		\vspace{1 cm}
+		\MakeUppercase{\textbf{PRÓ-REITOR DE ADMINSITRAÇÃO E PLANEJAMENTO}}\\
+		\imprimirproreitoradministracao	
+		
+		\pagebreak
+%segunda pagina		
+%		
+      \includegraphics[scale=0.15]{figuras/logo-ifce} \\
+		\textbf{\MakeUppercase{\imprimiries} 
+		\MakeUppercase{\imprimiriessigla} \MakeUppercase{\imprimircentro}
+		}
+		
+		\SingleSpacing
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{DIRETOR GERAL DO \imprimircentro}}\\
+		\imprimirdiretorcampus
+
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{DIRETOR DE ENSINO}}\\
+		\imprimirdiretorensino
+
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{COODENAÇÃo TECNICO-PEDAGÓGICA}}\\
+		\imprimircoordenadorpedagogico
+
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{CHEFE DO DEPARTAMENTO DE PESQUISA, PÓS-GRADUAÇÃO
+E INOVAÇÃO}}\\
+		\imprimirchefedepartamentopesquisa
+		
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{CHEFE DO DEPARTAMENTO DE EXTENSÃO}}\\
+		\imprimirchefedepartamentoextensao
+		
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{COORDENADOR DE BIBLIOTECA}}\\
+		\imprimircoordenadorbiblioteca
+
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{COORDENADOR DE CURSO}}\\
+		\imprimircoordenadordecurso
+		
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{COLEGIADO}}\\
+		\imprimircolegiado
+		
+		\vspace{0.5 cm}
+		\MakeUppercase{\textbf{NÚCLEO DOCENTE ESTRUTURANTE (NDE)}}\\
+		\imprimirnucleodocenteestruturante
+		
+		
+}
+
 
 % Dedicatoria
 
