@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  29 JAN 2024 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  26 JAN 2024 09:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1268,219 +1268,24 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-)
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 178--181
 
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+ \T1/ptm/m/n/12 (+20) aten-der de-man-das das in-dús-trias lo-cais.  
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
-[]|\T1/ptm/m/n/12 (+20) Página ins-ti-tu-ci-o-nal da in-ter-net:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--199
-
- []
-
-[3
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-
- []
-
-[4
-
-] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-
- []
-
-[6
-
-] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-
- []
-
-[8
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-
- []
-
-[9]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-10.
- (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[10
-
-] [11] [12] [13
-
-] [14
-
-] [15
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
-
- []
-
-[16
-
-] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
-
- []
-
-[18
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
-
- []
-
-[19] (documento.bbl [20
-
-]
-bibitemlist
-) [21
-
-]
-\tf@toc=\write4
-\openout4 = `documento.toc'.
-
- (documento.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2020/03/25>
- ***********
- ) 
+! pdfTeX error (ext1): \pdfendlink cannot be used in vertical mode.
+\close@pdflink ...\Hy@VerboseLinkStop \pdfendlink 
+                                                  
+l.6 ...ºstrias locais.\\ }{4}{paragraph.1.0.0.0.1}
+                                                  %
+
+ 
 Here is how much of TeX's memory you used:
- 25661 strings out of 475248
- 417454 string characters out of 5757813
- 1933785 words of memory out of 5000000
- 46584 multiletter control sequences out of 15000+600000
- 588748 words of font info for 204 fonts, out of 8000000 for 9000
+ 25380 strings out of 475248
+ 414333 string characters out of 5757813
+ 1926785 words of memory out of 5000000
+ 46512 multiletter control sequences out of 15000+600000
+ 578868 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,13n,110p,1920b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
-b><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.p
-fb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
-fb>
-Output written on documento.pdf (23 pages, 160156 bytes).
-PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 32387 words of extra memory for PDF output out of 35830 (max. 10000000)
-
+ 104i,10n,110p,1009b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

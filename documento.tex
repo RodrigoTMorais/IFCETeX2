@@ -1,24 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% 				Customizações do abnTeX2 para o IFCE    			   %%%
-%%% 		Instituto Federal de Educação, Ciência e Tecnologia do Ceará   %%%
-%%% Template disponível em: https://github.com/clodomirneto/IFCETeX2	   %%%
-%%% Desenvolvedores do IFCETeX2: Professor Clodomir Silva Lima Neto	       %%%
-%%% 							 Professor Marcelo Araújo Lima		       %%%
-%%% 					  	     Professor Antonio Sergio de Sousa Vieira  %%%
-%%% E-mails para contato: clodomir.neto@ifce.edu.br						   %%%
-%%% 					  marcelo.alima@ifce.edu.br					       %%%
-%%% 					  sergio.vieira@ifce.edu.br					       %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% 			Instruções para Uso do Template IFCETeX2	  			   %%%
-%%%																	       %%%
-%%% 1. Criar uma conta no Overleaf.									       %%%
-%%% 2. No Ambiente Overleaf, clicar em Menu (canto superior esquerdo) 	   %%% 
-%%% 3. Clicar em "Copiar Projeto".  									   %%%
-%%% 4. Dê um novo nome para o Projeto. 								       %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \input{preambulo}
 
 % Opções disponíveis
@@ -45,14 +24,14 @@
 
 \autor{Nome Completo do Autor}
 \titulo{Título do Trabalho: Subtítulo (se houver)}
-\local{Cidade}
-\data{Ano de Entrega}
+\local{Juazeiro do Norte}
+\data{2024}
 
 % Informação sobre a IES
 
 \ies{Instituto Federal de Educação, Ciência e Tecnologia do Ceará}
 \iessigla{IFCE}
-\centro{\textit{Campus} Caucaia}
+\centro{\textit{Campus} Juazeiro do Norte}
 
 % Informação para Tese
 
@@ -137,22 +116,35 @@
 \membrodabancaseisies{Universidade do Membro da Banca Seis - SIGLA}
 
 % Informações sobre PPC
-\curso{nome do curso}
-\reitor{nome do reitor}
-\proreitorensino{nome do proreitor de ensino}
-\proreitorpesquisa{nome do proreitor de pesquisa}
-\proreitorextensao{nome do proreitor de extensão}
-\proreitorgestaopessoas{nome do proreitor de pessoas}
-\proreitoradministracao{nome do proreitor de administracao}
-\diretorcampus{nome diretor do campus}
-\diretorensino{nome coordenador de ensino}
-\coordenadorpedagogico{nome do coordenador pedagógico}
-\chefedepartamentopesquisa{chefe do departamento de pesquisa}
-\chefedepartamentoextensao{chefe do departamento de extensão}
-\coordenadorbiblioteca{coordenador da biblioteca}
-\coordenadordecurso{coordenador do curso}
-\nucleodocenteestruturante{nome - presidente\\ membro \\ membro }
-\colegiado{nome - presidente \\ membro \\ membro}
+\curso{Tecnologia em automação Industrial}
+\reitor{José Wally Mendonça Menezes}
+\proreitorensino{Cristiane Borges Braga}
+\proreitorpesquisa{Joélia Marques de Carvalho}
+\proreitorextensao{Ana Cláudia Uchôa Araújo}
+\proreitorgestaopessoas{Marcel Ribeiro Mendonça}
+\proreitoradministracao{Reuber Saraiva de Santiago}
+\diretorcampus{Alex Jussileno Viana Bezerra}
+\diretorensino{Maria Regilene Gonçalves de Alcântara}
+\coordenadorpedagogico{Luiza Maria Vieira de Lima}
+\chefedepartamentopesquisa{Carlos Régis Torquato Rocha}
+\chefedepartamentoextensao{Narcélio Pinheiro Victor}
+\coordenadorbiblioteca{João Paulo Correia Ferreira}
+\coordenadordecurso{Rodrigo Tavares de Morais}
+
+\nucleodocenteestruturante{Rodrigo Tavares de Morais\\
+Régia Talina Silva Araújo\\
+Alexandre Magno Fereira Diniz\\
+Flavio César Brito Nunes\\
+Manuel Edervaldo Souto Araújo\\}
+
+\colegiado{Rodrigo Tavares de Morais – Presidente\\
+Josemeire Medeiros Silveira de melo - Pedagoga\\
+Derig Almeida Vidal – Representante Docente\\
+Flávio Cesar Brito Nunes – Representante Docente\\
+Fábio Lavor Bezerra – Representante Docente\\
+Ágio Gonçalves de Moraes Felipe - Representante docente\\
+Francisco Erlânio Teles Pereira – Representante Discente\\
+Italo Jean Silva Sousa - Representante discente}
 
 
 \begin{document}	
@@ -177,26 +169,334 @@
 %\imprimirlistadecodigosfonte
 %\imprimirlistadesiglas{elementos-pre-textuais/lista-de-siglas}
 %\imprimirlistadesimbolos{elementos-pre-textuais/lista-de-simbolos}
-%\imprimirsumario
+\imprimirsumario
 	
 % Elementos textuais
 
 \textual
-\input{elementos-textuais/introducao}
-\input{elementos-textuais/fundamentacao-teorica}
-%\input{elementos-textuais/trabalhos-relacionados}
-%\input{elementos-textuais/metodologia}
-%\input{elementos-textuais/resultados}
-\input{elementos-textuais/conclusao}
-	
-% Elementos pós-textuais
+\justifying
+\textbf{Dados do curso}\\
+\vspace{1cm}\\
+Identificação da instituição de ensino\\
 
+%identificação da instituição
+\begin{tabular}{|p{5cm}|p{1.5cm}|p{7cm}|}
+\hline 
+\multicolumn{3}{|p{14cm}|}{Nome: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - campus Juazeiro do Norte} \\ 
+\hline 
+\multicolumn{3}{|p{14cm}|}{CNPJ/MF: 10.744.098/0005-79} \\ 
+\hline 
+\multicolumn{3}{|p{14cm}|}{Endereço: Av. Plácido Aderaldo Castelo, 1646 – Bairro Planalto, cidade
+Juazeiro do Norte – CE, CEP. 63.040-540.} \\ 
+\hline 
+Cidade: Juazeiro do Norte & UF:
+CE & Fone: (88) 2101-5300 \\ 
+\hline 
+\multicolumn{2}{|p{7cm}|}{E-mail: gabinetejn@ifce.edu.br} & Página institucional da internet:
+http://ifce.edu.br/juazeirodonorte \\ 
+\hline 
+\end{tabular} \\
+
+\vspace{1cm}
+Informações Gerais do Curso
+
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline 
+Denominação & Curso Superior de
+Tecnologia em Automação
+Industrial \\ 
+\hline 
+Titulação/certificação & Tecnólogo em Automação
+Industrial \\ 
+\hline 
+Nível & Superior \\ 
+\hline 
+Modalidade & Presencial (até 20\% EAD) \\ 
+\hline 
+Duração & Mínimo: 07 (sete) semestres \newline
+Máximo: 11 (onze) semestres \\ 
+\hline 
+Periodicidade & Semestral \\ 
+\hline 
+Forma de Ingresso & SISU/Transferência/Diplomados \\ 
+\hline 
+Número de vagas Anuais & 80 vagas \\ 
+\hline 
+Turno de funcionamento & Matutino/Noturno \\ 
+\hline 
+Ano e semestre do início de funcionamento & 2000.1 \\ 
+\hline 
+Carga horária dos
+componentes curriculares
+(Disciplinas) & 2760 h/a de
+disciplinas
+obrigatórias 
+\newline
+240 h/a de disciplinas opcionais \\ 
+\hline 
+Carga Horária do Estágio & não obrigatório \\ 
+\hline 
+Carga horária do Trabalho de Conclusão do Curso & 40 h/a \\ 
+\hline 
+Carga horária Total & 2720 h/a \\ 
+\hline 
+Sistema de Carga Horária & 01 crédito = 20h/a \\ 
+\hline 
+Duração da hora-aula diurna & 60 minutos \\ 
+\hline 
+Duração da hora-aula noturna & 50 minutos \\
+\hline 
+\end{tabular}
+
+\pagebreak
+
+\chapter{Apresentação}
+%\DoubleSpacing
+\OnehalfSpacing
+%\SingleSpacing
+
+O presente documento trata da alteração e atualização do Projeto Pedagógico do Curso Superior de Tecnologia em Automação Industrial, demanda ocorrida a partir de 2022, para adequação de normas de adição da extenção a grade curricular, bem como ajustes de disciplinas e adição de disciplinas optativas para atender demandas das indústrias locais.\\
+
+O curso Superior de Tecnologia em Automação Industrial, objeto deste Projeto Pedagógico, vinculado ao Eixo de Controle e Processos Industriais, conforme Catálogo Nacional de Cursos Tecnológicos do MEC, e ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará, campus Juazeiro do Norte foi criado com base em um estudo sistemático das  potencialidades da microrregião do Cariri, no qual foi identificado a área da indústria como uma potência mercadológica regional.\\
+
+Apoiados na constatação, os docentes do Curso Técnico em eletrônica, que naquele período, era ofertado pelo campus Juazeiro do Norte, realizaram várias discussões para a construção do projeto do Curso superior de Tecnologia em Automática (nome anterior do curso). A partir daí constituiu-se uma comissão interna para a elaboração do documento.\\
+
+Para a elaboração do referido projeto, observou-se as diretrizes curriculares nacionais para os Cursos Superiores de Tecnologia, tais como: Decreto no 5.154/2004, Parecer CNE/CES no 436/2001, Parecer CNE/CP no 29/2002, Resolução CNE/CP no 3/2002, Parecer CNE/CES no 277/2006, Parecer CNE/CES no 19/2008, e a Lei de Diretrizes e Bases da Educação Nacional – LDB 9.394/96.\\
+
+O Curso Superior de Tecnologia em Automática teve o projeto aprovado pelo Conselho Diretor do CEFETCE através da portaria no 436/GDG de 10 de dezembro de 1999,constante nos anexos deste PPC. O curso Iniciou com carga horária de 2.490h para disciplinas e 400h para estágio supervisionado, totalizando 2.890h e a primeira turma ingressou no semestre letivo de 2000.1.\\
+
+O reconhecimento do curso superior de Tecnologia em Automática deu-se através da Portaria no 161, de 24 de novembro de 2006 (constante nos anexos), e nos termos da portaria citada, o curso passou a se chamar Curso Superior de Tecnologia em Automação Industrial.\\
+
+Dessa forma, o curso superior de Tecnologia em Automação Industrial foi estruturado com uma matriz curricular que contempla uma base sólida de conhecimentos científicos e tecnológicos, com carga horária de 2800 horas/aula para disciplinas e 400h para estágio supervisionado, totalizando 3200 horas/aula, distribuídas ao longo de sete semestres. Este curso está em conformidade com as diretrizes curriculares nacionais segundo o parecer CNE/CES No 436/2001. Em anexo.\\
+
+Entretanto Dado que a matriz curricular atual data de 2006, a evolução tecnológica demandou que ao longo do tempo os componentes curriculares tivessem seus conteúdos atualizados, porem, em idos de 2019, percebeu-se a necessidade de uma atualização mais profunda envolvendo a matriz curricular inteira. também mudanças na legislação demandaram mudanças significativas, de modo que o Núcleo Docente Estruturante (NDE), juntamente com os docentes do curso, iniciaram o trabalho de atualização deste projeto pedagógico de curso, no qual apresentamos neste documento.
+
+\chapter{Contextualização da Instituição}
+ 
+O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) é uma autarquia federal vinculada ao Ministério da Educação (MEC), gozando de autonomia pedagógica, administrativa e financeira.\\
+
+O IFCE foi criado a partir da fusão entre o Centro Federal de Educação Tecnológica do Ceará (CEFET-CE) e as Escolas Agrotécnicas Federais (EAF) localizadas nas cidades de Crato e Iguatu, sendo regulamentado através da lei no 11.892/2008. O instituto tem como missão produzir, disseminar e aplicar conhecimentos técnicos, tecnológicos e acadêmicos visando à formação cidadã, por meio do Ensino, da Pesquisa e da Extensão, contribuindo para o progresso socioeconômico local, regional e nacional. Oferece cursos regulares de formação técnica, assim como, cursos superiores tecnológicos, licenciaturas, bacharelados e, ainda, pós-graduação (especialização e mestrado).\\
+
+Atualmente a instituição dispõe de 35 campi localizados em diversos municípios do Ceará, caracterizando-se pela ampla capilaridade, com oferta de cursos sintonizados com as demandas regionais. Assim, a implantação do IFCE no interior do estado atende a meta do programa de expansão da rede federal de educação profissional e tecnológica e a própria natureza dos institutos federais de educação tecnológica, no que diz respeito à descentralização da oferta de qualificação profissional, levando em conta as necessidades socioeconômicas de cada região e ainda o propósito de evitar o êxodo de jovens estudantes para a capital.\\
+
+O IFCE/Campus Juazeiro do Norte localiza-se na região do Cariri, sul do estado do Ceará. Foi inaugurado em dezembro de 1994 como Unidade de Ensino Descentralizada de Juazeiro do Norte (UNED) do Centro Federal de Educação Tecnológica do Ceará – CEFET CE, conforme Lei 8.948 de 08 de dezembro de 1994, tendo iniciado seu funcionamento, efetivamente, em setembro de 1995, com a oferta de cursos técnicos de nível médio. Atualmente, o IFCE/Campus de Juazeiro do Norte possui cinco cursos de graduação (Licenciatura em Matemática, Educação Física - ABI, Tecnologia em Automação Industrial, Bacharelado em Engenharia Civil e Bacharelado em Engenharia Ambiental e Sanitária), quatro cursos técnicos integrados (Técnico em Edificações, Técnico em Eletrotécnica, Técnico em Brinquedoteca e Técnico em Controle Ambiental), dois cursos Técnicos Subsequentes (Técnico em Geoprocessamento e Técnico em Sistemas de Energia Renovável) e um curso técnico integrado ao ensino médio na modalidade de Educação de Jovens e Adultos (Técnico em Mecânica Industrial Integrado ao Ensino Médio) que, com esta nova proposta curricular, para implementação em 2024.1 receberá a denominação de Técnico em Mecânica Integrado ao Ensino Médio. O campus oferta ainda, um curso de Licenciatura em Matemática na modalidade de Ensino à Distância (EaD), realizado através do Programa da Universidade Aberta do Brasil (UAB) e financiado pela Coordenação de Aperfeiçoamento de Pessoal Docente (CAPES), e dois cursos de Pós-Graduação Lato Sensu: Especialização em Ensino de Matemática com Ênfase na Formação de Professores da Educação Básica; e Especialização em Educação Física, Saúde e Lazer. A partir de 2024, o Campus Juazeiro do Norte, também estará implantando o curso de Pós-Graduação Stricto Sensu - Programa de Mestrado em Meio Ambiente.
+
+\chapter{Justificativa para criação do Curso}
+
+Profundas transformações no mercado de trabalho no século XXI têm operado mudanças significativas na produção e na prestação de serviços com aumento da necessidade de especialização e diversificação da força de trabalho. Uma das consequências deste momento histórico é a reestruturação do mercado e dos perfis profissionais, demandando cada vez mais investimento na formação e capacitação profissional de mão-de-obra qualificada.\\
+
+Como parte do processo de globalização há a irreversível utilização, cada vez mais intensa, da tecnologia da informação, dos processos de automação do trabalho e melhoria da competitividade das organizações. Atualmente, o setor da indústria é influenciado por esses mecanismos, presentes tanto em empresas de pequeno porte, quanto em organizações de grande porte. A automação industrial  consiste na aplicação de técnicas, programas e/ou equipamentos específicos em uma determinada máquina ou processo industrial, objetivando o aumento de sua eficiência, maximização da produção com o menor consumo de insumos, diminuição da emissão de resíduos de qualquer espécie, melhores condições de segurança, seja material, humana ou das informações decorrentes dessa dinâmica, ou ainda, redução do esforço ou da interferência humana sobre esse trabalho ou máquina.\\
+
+Esses avanços têm sido influenciados pelo desenvolvimento da robótica e da inteligência artificial e, acabam provocando uma nova configuração no mundo do trabalho. A automação industrial se apresenta não apenas como uma tendência, mas como um desafio para os próximos anos, haja visto o grande número a de trabalhadores atualmente alocadao em empregos de utilização do processo de automação.\\
+
+O IPEA (2019) aponta que “em média, 54,45\% dos atuais empregos no Brasil correm risco elevado ou muito elevado de automação até 2046, um valor consistente com estudos similares que analisaram demais países da Europa, América do Norte e América Latina”. Diante deste cenário, o desafio é construir políticas públicas de educação que promovam oportunidades de práticas que preparem os aos trabalhadores para que atuem atuarem em várias atividades da área de Automação.\\
+
+Para além disso, o cenário para o Brasil, não se mostra tão favorável. Pesquisas do Instituto de Estudos para o Desenvolvimento Industrial (IEDI) mostram que nos últimos anos o crescimento da produtividade na indústria brasileira foi de 0,8\%. No contexto de recesso econômico mundial enfrentado por diversos países que resultou em baixas de produtividade em economias como a China e os Estados Unidos, ainda é um cenário de difícil recuperação. Tendo em vista que a produtividade agregada dos Estados Unidos é cerca de 6 vezes maior que a do Brasil, o que evidencia a grande distância do Brasil em relação à fronteira tecnológica \cite{IEDI}.\\
+
+No entanto, especialistas defendem que um dos fatores que poderiam elevar esse número no Brasil seria aumentar a capacidade inovadora dos processos produtivos industriais. Para tanto, faz-se necessário oferecer oportunidade de formação qualificada, para tornar a indústria nacional competitiva e de alta produtividade.\\
+
+No contexto local, a região do Cariri no Ceará destaca-se como um importante polo industrial. Essa região é composta pelos municípios de Juazeiro do Norte, Crato, Barbalha, Caririaçu, Farias Brito, Jardim, Missão Velha, Nova Olinda e Santana do Cariri. Seus principais setores industriais se concentram na fabricação de calçados, bebidas não alcoólicas, produtos de limpeza, joias, medicamentos alopáticos, cimento, artefatos de cerâmica, extração e beneficiamento de gesso, argila, pedra e outros materiais para construção, cultivo de frutas e cana-de-açúcar. Segundo dados do Sindicato das Indústrias de Calçados e Vestuário de Juazeiro do Norte e região (SINDINDÚSTRIA). Só neste ramo de atividade, existem 81 empresas filiadas. Além desses importantes setores produtivos, merecem destaque também o comércio local e o forte turismo religioso no município de Juazeiro do Norte, relacionado principalmente ao Padre Cícero. O Sul do Cariri representa 7,89\% do PIB do Estado do Ceará (IPECE, 2017) tendo sido uma Região atrativa para novos investimentos em virtude da atratividade ocasionada pela consolidação como polo universitário cearense, abrigando mais de 14 IES no território. \\
+
+Dessa forma, a proposta de um Curso Superior de Tecnologia em Automação Industrial surgiu com o objetivo de formar profissionais que possam atender à demanda gerencial e técnica identificada na região do Cariri, que tem a cidade de Juazeiro do Norte, como epicentro. Os conhecimentos da automação destacam-se principalmente nas áreas de eletricidade, mecânica, eletropneumática, eletrônica geral, eletrônica embarcada e informática e atendem a necessidade, cada vez mais presente, nas indústrias da região.\\
+
+Desde 1995, o IFCE campus de Juazeiro do Norte tem colaborado para elevar o grau de aperfeiçoamento da mão-de-obra destinada à indústria e serviços da região do Cariri. Inicialmente, em nível técnico (com o curso Técnico em Eletrônica), logo se constatou a necessidade de formar profissionais com graduação superior que possuísse formação especializada em automação.\\
+
+Três fatores foram determinantes para a proposição do curso: a demanda regional por profissionais qualificados para atuarem no setor industrial, a infraestrutura e a qualificação docente existente no IFCE campus de Juazeiro do Norte. Importante ressaltar que a universalização das ferramentas e plataformas nesta área, proporciona ao profissional uma grande mobilidade, não apenas para o mercado local, mas para o Brasil.
+
+\chapter{Fundamentação Legal}
+
+O Curso Superior de Tecnologia em Automação Industrial está legalmente embasado nas diretrizes educacionais referentes à Educação Profissional Tecnológica, conforme legislação abaixo relacionada:
+\begin{itemize}
+\item \textbf{Lei de Diretrizes e Bases da Educação Nacional}. LDB (Lei 9.394/96). Estabelece as Diretrizes e Bases da Educação Nacional;
+
+\item \textbf{Lei no 11.741/2008}. Altera dispositivos da Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para redimensionar, institucionalizar e integrar as ações da educação profissional técnica de nível médio, da educação de jovens e adultos e da educação profissional e tecnológica.
+
+\item \textbf{Resolução CNE/CES no 3, de 2 de julho de 2007}. Dispõe sobre procedimentos a serem adotados quanto ao conceito de hora-aula, e dá outras providências.
+
+\item \textbf{Portaria MEC no 40, de 12 de dezembro de 2007}, reeditada em 29 de dezembro de 2011. Institui o e-MEC – sistema eletrônico de fluxo de trabalho e gerenciamento de informações relativas aos processos de regulação, avaliação e supervisão da educação superior no sistema federal de educação –, o Cadastro e-MEC de Instituições e Cursos Superiores e consolida disposições sobre indicadores de qualidade, banco de avaliadores (Basis) e o Exame Nacional de Desempenho de Estudantes (Enade), entre outras disposições.
+
+\item \textbf{Lei no 10.861, de 14 de abril de 2004}. Institui o Sistema Nacional de Avaliação da Educação Superior (SINAES) e dá outras providências.
+
+\item \textbf{Parecer CES no 277/2006}. Versa sobre nova forma de organização da Educação Profissional e Tecnológica de graduação.
+
+\item \textbf{Resolução CNE/CP no 3/2002, de 18 de dezembro de 2002}. Institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia.
+
+\item \textbf{Parecer CNE/CES no 583, de 4 de abril de 2001}, que dispõe sobre a orientação para as Diretrizes Curriculares dos Cursos de Graduação.
+
+\item \textbf{Decreto no 6.303, de 12 de dezembro de 2007}. Altera dispositivos dos Decretos no 5.622, de 19 de dezembro de 2005, que estabelece as diretrizes e bases da educação nacional, e no 5.773, de 9 de maio de 2006, que dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e sequenciais no sistema federal de ensino.
+
+\item \textbf{Lei no 11.788, de 25 de setembro de 2008}. Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, e a Lei no 9.394, de 20 de dezembro de 1996; revoga as Leis no 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei no 9.394, de 20 de dezembro de 1996, e o art. 6o da Medida Provisória no 2.164-41, de 24 de agosto de 2001; e dá outras providências.
+
+\item \textbf{Resolução no 2, de 4 de abril de 2005}. Modifica a redação do § 3o do artigo 5o da Resolução CNE/CEB no 1/2004, até nova manifestação sobre estágio supervisionado pelo Conselho Nacional de Educação.
+
+\item \textbf{Parecer CNE/CEB no 40, de 08 de dezembro de 2004}. Trata das normas para execução de avaliação, reconhecimento e certificação de estudos previstos no Artigo 41 da Lei no 9.394/96 (LDB).
+
+\item \textbf{Decreto no 5.154, de 23 de julho de 2004}. Regulamenta o § 2o do art. 36 e os arts. 39 a 41da Lei no 9.394/96.
+
+\item \textbf{Parecer CNE/CES no 436, de 2 de abril de 2001}. Orienta sobre os Cursos Superiores de Tecnologia - Formação de Tecnólogo.
+
+\item \textbf{Parecer CNE/CP no 29, de 3 de dezembro de 2002}. Institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia.
+
+\item \textbf{Parecer CNE/CES no 277, de 7 de dezembro de 2006}. Define nova forma de organização da Educação Profissional e Tecnológica de graduação.
+
+\item \textbf{Parecer CNE/CES no 19, de 31 de janeiro de 2008}. Consulta sobre o aproveitamento de competência de que trata o art. 9o da Resolução CNE/CP no3/2002, que institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia.
+
+\item \textbf{Catálogo Nacional de Cursos Superiores de Tecnologia do MEC}. Manual que organiza e orienta a oferta de cursos superiores de tecnologia, inspirado nas diretrizes curriculares nacionais e em sintonia com a dinâmica do setor produtivo e as expectativas da sociedade.
+
+\item \textbf{Resolução CNE/CP no 1, de 17 de junho de 2004}. Diretrizes Curriculares Nacionais para a Educação das Relações Étnico- Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Orienta ementas de disciplinas específicas, mas também uma compreensão curricular de valorização dos povos originários do Brasil, bem como do seu legado cultural presente em nossa vida e educação.
+
+\item \textbf{Decreto no 6.872, de 4 de junho de 2009}. Aprova o Plano Nacional de Promoção da Igualdade Racial – PLANAPIR e institui o seu Comitê de Articulação e Monitoramento.
+
+\item \textbf{Plano Nacional de Educação em Direitos Humanos (PNEDH)}. Constitui política pública para um projeto de sociedade baseado nos princípios da democracia, da cidadania e da justiça social, por meio de um instrumento de construção de uma cultura de direitos humanos, visando ao exercício da solidariedade e do respeito às diversidades.
+
+\item \textbf{Decreto no 7.037, de 21 de dezembro de 2009}. Institui o Programa Nacional de Direitos Humanos.
+
+\item \textbf{Resolução CNE/CP no1, de 30 de maio de 2012}. Diretrizes Nacionais para a Educação em Direitos Humanos. Estabelece fundamentos para a discussão das temáticas da inclusão, da tolerância e do direito como princípio educativo.
+
+\item \textbf{Lei no 9.795, de 27 de abril de 1999}. Dispõe sobre a educação ambiental e institui a Política Nacional de Educação Ambiental.
+
+\item \textbf{Resolução CNE/CP no 2, de 15 de junho de 2012}. Diretrizes Curriculares Nacionais para a Educação Ambiental. Apresenta as orientações sobre a Educação Ambiental, que perpassa diversas disciplinas como princípio curricular e forma de ser e estar no mundo.
+
+\item \textbf{Decreto no 5.296, de 2 de dezembro de 2004}. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas com necessidades específicas, e no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
+
+\item \textbf{Decreto no 5.626, de 22 de dezembro de 2005}. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais – Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000.
+
+\item \textbf{Decreto no 6.571, de 17 de setembro de 2008}. Dispõe sobre o atendimento
+educacional especializado, regulamenta o parágrafo único do art. 60 da Lei no 9.394, de 20 de dezembro de 1996, e acrescenta dispositivo ao Decreto no 6.253, de 13 de novembro de 2007. (Revogado pelo Decreto no 7.611/ 2011, mas citado no Parecer CNE/CEB no 11/2012).
+
+\item \textbf{Decreto no 6.949, de 25 de agosto de 2009}. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007.
+
+\item \textbf{Decreto no 7.611, de 17 de novembro de 2011}. Dispõe sobre a educação especial, o atendimento educacional especializado e dá outras providências.
+
+\end{itemize}
+
+\chapter{Objetivos do Curso}
+
+\section{Objetivo Geral}
+Formar profissionais de nível superior na área de tecnologia em automação industrial para atuar a serviço da modernização das técnicas de produção utilizadas no setor industrial, atuando no planejamento, instalação e supervisão de sistemas de automação, com compromisso ético e responsabilidade social e ambiental.
+
+\section{Objetivos específicos}
+
+\begin{itemize}
+
+\item preparar profissionais para atuarem na execução de processos do âmbito industrial, instalação e supervisão de sistemas de automação;
+
+\item Formar profissionais com capacidade de pensar, planejar e agir na execução e manutenção dos sistemas automatizados;
+
+\item Formar cidadãos com postura ética e responsabilidade social;
+
+\item Ofertar um curso de pós-graduação na área do curso;
+
+\item Capacitar e recapacitar pessoal docente, para manter o curso atualizado com as novas tecnologias do setor industrial;
+
+\item Manter relações com as indústrias a fim de receber informações sobre necessidades da indústria, bem como encaminhar os discentes ao mercado de trabalho;
+
+\item  Desenvolver Projetos Sociais fortalecendo a formação cidadã e a inclusão social e tecnológica;
+
+\item Incentivar a formação inovadora e empreendedora;
+
+\item Promover a produção, o desenvolvimento tecnológico e a transferência de tecnologias, observando os aspectos pertinentes à preservação do meio ambiente e ganho de produtividade;
+
+\item Promover as atividades de pesquisa e iniciação científica na área de interesse do curso e/ou áreas equivalentes.
+
+\end{itemize}
+
+\chapter{Formas de Ingresso}
+
+O ingresso no curso de Automação Industrial ocorre através do Processo Seletivo do Sistema de Seleção Unificada – SiSU ou através de edital específico para candidatos graduados e transferidos.
+
+\chapter{Áreas de Atuação}
+
+O tecnólogo em automação industrial projeta e gerencia a instalação e o uso de sistemas automatizados de controle e supervisão de processos industriais. Supervisiona a implantação e operação de redes industriais, sistemas supervisórios, controladores lógicos programáveis, sensores e atuadores presentes nos processos. Além disso, faz vistoria, realiza perícia, avalia, emite laudo e parecer técnico em sua área de formação.
+
+\chapter{Perfil Esperado do Futuro Profissional}
+
+O processo de formação do aluno está focado na preparação para o mercado de trabalho, na apropriação do saber tecnológico, na mobilização dos valores necessários à tomada de decisões com autonomia, na formação de uma postura empreendedora, sem abrir mão da cultura regional e dos valores sociais, de forma que os egressos atuem no mercado de trabalho como agentes de mudanças, contribuindo para o progresso social do país, em especial da Região Nordeste.\\
+
+O aluno egresso do Curso Superior de Tecnologia em Automação Industrial é um profissional de nível superior que está a serviço da modernização das técnicas de produção utilizadas no setor industrial, atuando no planejamento, instalação e supervisão de sistemas de integração e automação. Deverá possuir um conjunto de características capazes de prover as habilidades e competências para cumprir suas atribuições básicas.\\
+
+Dentro das atribuições, o tecnólogo em Automação Industrial estará apto a exercer as seguintes atividades:
+
+\begin{itemize}
+\item Desenvolver, implementar e integrar sistemas de automação industrial, integrando sensores, atuadores, dispositivos programáveis e sistemas de supervisão;
+
+\item Coordenar, implementar e realizar manutenção em sistemas elétricos, eletrônicos, pneumáticos e hidráulicos;
+
+\item Projetar, instalar e administrar redes Industriais;
+
+\item Realizar ajuste e calibração de instrumentos e equipamentos utilizados nos sistemas industriais;
+
+\item Programar controladores lógico-programáveis, microprocessadores,
+ microcontroladores e demais dispositivos aplicados à automação industrial;
+ 
+\item Projetar e implementar sistema de manufatura automatizada;
+
+\item Implementar e realizar manutenção em sistemas eletrônicos analógicos e digitais industriais;
+
+\item Operar máquinas, equipamentos e instrumentos comandados por sistemas convencionais ou automatizados;
+
+\item coordenar implantação de sistemas automatizados;
+
+\item liderar equipes de trabalho na área da automação Industrial;
+
+\item Pesquisar novas tecnologias e aplicações na área de automação;
+
+\item Treinar pessoal para trabalho em ambiente automatizado.
+
+\end{itemize}
+
+Para o exercício destas atividades, o egresso terá desenvolvido as seguintes competências e habilidades:
+
+\begin{itemize}
+\item Compreensão da necessidade de constante e contínuo aperfeiçoamento profissional;
+
+\item Capacidade de empreender, colocando-se em condições de desenvolver seu próprio negócio ou participar da estruturação de micro e pequenas empresas.
+
+\item Liderança;
+
+\item Atuação participativa em equipes multidisciplinares;
+
+\item Capacidade de aplicação de método científico para pesquisa e desenvolvimento de novas tecnologias;
+
+\item Raciocínio Lógico crítico e analítico.
+
+\end{itemize}
+
+\chapter{Metodologia}
+
+O curso de tecnologia em Automação Industrial utiliza, predominantemente, metodologia interacionista, porque defende a relação dialética entre teoria e prática, entendendo que são dimensões distintas e interdependentes. Assim, há valorização de diferentes áreas do conhecimento: técnicas, científicas, humanas e sociais. O desenvolvimento das práticas pedagógicas, previstas nos respectivos Planos de Unidade Didática (PUD) devem ser efetuadas através de atividades curriculares aliando ensino, pesquisa e extensão. Nessa perspectiva o processo de ensino e aprendizagem apresenta caráter inovador, visto que possibilitará a criação de tecnologia a utilização de recursos tecnológicos no desenvolvimento de  atividades, destacando-se: práticas laboratoriais, seminários, visitas técnicas, sistemas multimídias, estágios, projetos sociais, realização e participação em eventos científicos e culturais.\\
+
+Neste processo educacional serão abordados, os conhecimentos referentes a Educação Ambiental, Direitos Humanos e relações Étnico-raciais, objetivando atender as determinações de legislação específica tais como Diretrizes Curriculares Nacionais para a Educação Ambiental ( Resolução CNE/CP No 2, de 15 de junho de 2012). Diretrizes Curriculares Nacionais para a Educação em Direitos Humanos (Resolução CNE/CP No 1, de 30 de maio de 2012), Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana (Resolução CNE/CP No 1, de 17 de junho de 2004).\\
+
+Nessa perspetiva, todas as disciplinas poderão abordar, de maneira transversal, os assuntos referentes a essas questões no decorrer do curso e de maneira específica essas temáticas serão trabalhadas nas disciplinas de  Projetos Sociais e Gestão Empresarial.\\
+
+No intuito de promover o fortalecimento das ações de ensino e aprendizagem o curso incentiva a participação dos discentes em atividades de monitoria (voluntária e remunerada), projetos de iniciação científica, projetos de extensão e estágios supervisionados.\\
+
+Em cumprimento ao Decreto no 5.626, de 22/12/2005 No âmbito da educação inclusiva, será ofertada a disciplina de Libras, como componente curricular optativo. No que tange ao processo de educação inclusiva, serão desenvolvidos projetos em parceria com o Núcleo de Apoio às Pessoas com Necessidades Educacionais Específicas (NAPNE), objetivando atender os alunos cuja condição requeira atendimento especializado. Para tanto, os docentes deverão realizar adaptação das atividades e conteúdos a serem desenvolvidos, com o apoio da equipe pedagógica e dos profissionais que compõem o NAPNE.\\
+
+No curso de Tecnologia em Automação Industrial, diversos recursos tecnológicos são aplicados em conjunto com as diferentes disciplinas da matriz curricular de modo a produzir um clima propício ao desenvolvimento de projetos de aprendizagem através das Tecnologias de Informação e Comunicação – TIC’s. Dentre as TIC’s mais usadas destacam-se: softwares de simulação, sistemas de gerenciamento e supervisão, sistemas de aquisição de dados, sistema virtual de aprendizagem (AVA) baseado em ferramentas da WEB.
+
+Coerente com o exposto, a estrutura curricular apresenta três quatro áreas específicas e interligadas, fundamentais para atingir os objetivos do curso: Formação Básica, Formação Profissionalizante, e Formação Específica e Núcleo de Disciplinas Optativas. O núcleo de Formação Básica diz respeito às disciplinas com conhecimentos necessários para embasar as de caráter profissionalizante e específico. A Formação Profissionalizante é constituída de disciplinas referentes aos fundamentos, aos sistemas e aos processos da especialização. A Formação Específica refere-se ao aprofundamento dos conhecimentos na área de automação industrial.\\
+
+Coerente com o exposto, a estrutura curricular apresenta três quatro áreas específicas e interligadas, fundamentais para atingir os objetivos do curso: Formação Básica, Formação Profissionalizante, e Formação Específica e Núcleo de Disciplinas Optativas. O núcleo de Formação Básica diz respeito às disciplinas com conhecimentos necessários para embasar as de caráter profissionalizante e específico. A Formação Profissionalizante é constituída de disciplinas referentes aos fundamentos, aos sistemas e aos processos da especialização. A Formação Específica refere-se ao aprofundamento dos conhecimentos na área de automação industrial.\\
+
+\chapter{Estrutura Curricular}
+
+\section{Organização Curricular}
+
+O Curso Superior de Tecnologia em Automação Industrial do Instituto Federal de Ciência e Tecnologia do Ceará – campus Juazeiro do Norte foi estruturado em sete semestres letivos com componentes curriculares e estágio supervisionado. Os componentes curriculares estão organizados em três quatro núcleos distintos e articulados: Formação Básica (Geral), Formação Profissionalizante, e Formação Específica e Núcleo de Disciplinas Optativas. Eles estão presentes nas diretrizes curriculares nacionais do nível tecnológico, para serem desenvolvidos de forma integrada no decorrer do curso.\\
+
+
+
+
+
+% Elementos pós-textuais
 \bibliography{elementos-pos-textuais/referencias}
 %\imprimirglossario	
-\imprimirapendices
-\input{elementos-pos-textuais/apendice-a}
-\imprimiranexos
-\input{elementos-pos-textuais/anexo-a}		
+%\imprimirapendices
+%\input{elementos-pos-textuais/apendice-a}
+%\imprimiranexos
+%\input{elementos-pos-textuais/anexo-a}		
 %\imprimirindice
 
 \end{document}

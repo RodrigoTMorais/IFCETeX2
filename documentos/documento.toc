@@ -1,0 +1,7 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Apresentação}}{4}{chapter.1}%
+\contentsline {paragraph}{\numberline {1.0.0.0.1}O presente documento trata da alteração e atualização do Projeto Pedagógico do Curso Superior de Tecnologia em Automação Industrial, demanda ocorrida a partir de 2022, para adequação de normas de adição da extenção a grade curricular, bem como ajustes de disciplinas e adição de disciplinas optativas para atender demandas das indústrias locais.\\ }{4}{paragraph.1.0.0.0.1}%
+\contentsline {paragraph}{\numberline {1.0.0.0.2}O curso Superior de Tecnologia em Automação Industrial, objeto deste Projeto Pedagógico, vinculado ao Eixo de Controle e Processos Industriais, conforme Catálogo Nacional de Cursos Tecnológicos do MEC, e ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará, campus Juazeiro do Norte foi criado com base em um estudo sistemático das potencialidades da microrregião do Cariri, realizado no qual foi identificado identificando a área da indústria como uma potência mercadológica }{4}{paragraph.1.0.0.0.2}%

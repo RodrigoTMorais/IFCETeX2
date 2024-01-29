@@ -1,27 +1,28 @@
 \changetocdepth {4}
 \babel@toc {brazil}{}\relax 
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{13}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Apresentação}}{4}{chapter.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Título da Seção Primária do Desenvolvimento}}{14}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Título da Seção Secundária}{14}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Título da seção terciária}{15}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}Título da seção quaternária}{15}{subsubsection.2.1.1.1}%
-\contentsline {paragraph}{\numberline {2.1.1.1.1}Título da seção quinária}{16}{paragraph.2.1.1.1.1}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Contextualização da Instituição}}{6}{chapter.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Conclusão}}{20}{chapter.3}%
-\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Justificativa para criação do Curso}}{8}{chapter.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Fundamentação Legal}}{10}{chapter.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Objetivos do Curso}}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Objetivo Geral}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Objetivos específicos}{13}{section.5.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Formas de Ingresso}}{14}{chapter.6}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Áreas de Atuação}}{15}{chapter.7}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Perfil Esperado do Futuro Profissional}}{16}{chapter.8}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase []{Metodologia}}{18}{chapter.9}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase []{Estrutura Curricular}}{20}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Organização Curricular}{20}{section.10.1}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{\bfseries {Exemplo de Apêndice}}}{21}{appendix.A}%
-\cftinsert {AAA}
-\renewcommand *{\cftappendixname }{ANEXO \space }
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase []{\bfseries {Exemplo de Anexo}}}{22}{appendix.anexochapback.1}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{21}{section*.3}%
