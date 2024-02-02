@@ -26,4 +26,4 @@
 \contentsline {section}{\numberline {10.1}Organização Curricular}{20}{section.10.1}%
 \contentsline {section}{\numberline {10.2}Matriz Curricular}{22}{section.10.2}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{25}{section*.14}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{27}{section*.15}%
