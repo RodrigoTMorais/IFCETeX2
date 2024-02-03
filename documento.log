@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  2 FEB 2024 11:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  2 FEB 2024 21:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1850,7 +1850,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23] [24] [25] [26
+[23] [24] [25]
+Overfull \hbox (29.24873pt too wide) in paragraph at lines 1037--1038
+[][] 
+ []
+
+[26
 
 ] (documento.bbl
 bibitemlist
@@ -1870,20 +1875,20 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 37056 strings out of 475248
- 671911 string characters out of 5757813
+ 37188 strings out of 475248
+ 674038 string characters out of 5757813
  1961785 words of memory out of 5000000
- 57690 multiletter control sequences out of 15000+600000
- 605695 words of font info for 261 fonts, out of 8000000 for 9000
+ 57810 multiletter control sequences out of 15000+600000
+ 608807 words of font info for 269 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,13n,110p,1920b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,13n,110p,1920b,761s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.p
 fb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
 fb>
-Output written on documento.pdf (29 pages, 188511 bytes).
+Output written on documento.pdf (29 pages, 190781 bytes).
 PDF statistics:
  265 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
- 56471 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 60567 words of extra memory for PDF output out of 61914 (max. 10000000)
 

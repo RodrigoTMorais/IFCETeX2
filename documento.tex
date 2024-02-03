@@ -951,10 +951,18 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 
 \tikzstyle{disc5} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!50]
 
+\tikzstyle{disc6} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!60]
+
+\tikzstyle{disc7} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!70]
+
+\tikzstyle{texto} = [ text, minimum width=10cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=white]
+
+
 \tikzstyle{arrow} = [thick,->,>=stealth]
 
-\begin{tikzpicture}[node distance = 2cm]
+\begin{tikzpicture}[node distance = 1.7cm]
 % 1 semestre %%%%%%%%%%%%
+\draw node at (11,1.5) {\huge Fluxograma do curso};
 \node (ele1) [disc1] {\tiny Eletricidade 1 \\ 120h};
 \node (dig1) [disc1, below of=ele1] {\tiny Eletrônica Digital 1 \\ 80h};
 \node (fundprog) [disc1, below of=dig1] {\tiny Fundamentos da programação \\ 80h};
@@ -984,23 +992,47 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \node (proe) [disc4, below of= micro1] {\tiny Projetos em eletrônica \\ 80h};
 \node (elind) [disc4, below of= proe] {\tiny Eletroônica Industrial \\ 80h};
 \node (fis2) [disc4, below of= elind] {\tiny Física 2 \\ 40h};
-\node (maqe) [disc4, below of= fis2] {\tiny Máquinas elétricas \\ 80h};
+\node (prog2) [disc4, below of= fis2] {\tiny Linguagem de programação 2 \\ 80h};
 
 % 5 semestre %%%%%%%%%%%%%
 \node (com) [disc5, right of=opt, xshift=2cm] {\tiny Comandos elétricos \\ 80h};
-\node (prog2) [disc5, below of= com] {\tiny Linguagem de programação 2 \\ 80h};
-\node (elem) [disc5, below of= prog2] {\tiny Elementos de máquinas \\ 40h};
+\node (maqe) [disc5, below of= com] {\tiny Máquinas elétricas \\ 80h};
+\node (elem) [disc5, below of= maqe] {\tiny Elementos de máquinas \\ 40h};
 \node (cont1) [disc5, below of= elem] {\tiny Controle de processos 1 \\ 80h};
 \node (ac1) [disc5, below of= cont1] {\tiny Acionamento Pnemáticos e eletropneumáticos \\ 80h};
 \node (gest) [disc5, below of= ac1] {\tiny Gestão Empresarial \\ 40h};
 
+% 6 semestre %%%%%%%%%%%%%
+\node (micro2) [disc6, right of=com, xshift=2cm] {\tiny Microprocessadores 2 \\ 80h};
+\node (prof) [disc6, below of= micro2] {\tiny Processos de fabricação \\ 80h};
+\node (acm) [disc6, below of= prof] {\tiny Acionamento de máquinas \\ 80h};
+\node (ac2) [disc6, below of= acm] {\tiny Acionamento hidraulicos e eletro hidraulicos \\ 80h};
+\node (Insti) [disc6, below of= ac2] {\tiny Instrumentação Industrial \\ 40h};
 
+% 7 semestre %%%%%%%%%%%%%
+\node (contp2) [disc7, right of=micro2, xshift=2cm] {\tiny Controle de processos 2 \\ 80h};
+\node (redi) [disc7, below of= contp2] {\tiny Redes Industriais \\ 80h};
+\node (clp) [disc7, below of= redi] {\tiny Controladores lógicos programáveis \\ 80h};
+\node (cae) [disc7, below of= clp] {\tiny Engenharia assistida por computador \\ 80h};
+\node (tcc) [disc7, below of= cae] {\tiny Trabalho de conclusão de curso \\ 40h};
+\node (conpro) [disc7, below of= tcc] {\tiny Controle da produção \\ 40h};
 
-
-
-
-
-
+% setas de pre requisito
+\draw [arrow] (dig1) -- (dig2);
+\draw [arrow] (fundprog) -- (prog1);
+\draw [arrow] (ele1) -- (inst);
+\draw [arrow] (matap) -| node[pos=0]{} ++(1.85,2.65) -| (calc);
+\draw [arrow] (matap) -| node[pos=0]{} ++(1.85,4.25) -| (ele2);
+\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.8) -| (ele2);
+\draw [arrow] (matap) |- node[pos=0]{} ++(0,0.8) -| (fis1);
+\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.8) -| node[pos=0]{} ++(5.5,0) |- (eleg);
+\draw [arrow] (dig2) |- node[pos=0]{} ++(0,0.8) -| (micro1);
+\draw [arrow] (prog1) |- node[pos=0]{} ++(0,0.9) -| (micro1);
+\draw [arrow] (eleg) -| node[pos=0]{} ++(1.85,2.65) |- (proe);
+\draw [arrow] (eleg) -| node[pos=0]{} ++(1.85,2.65) |- (elind);
+\draw [arrow] (ele2) -| node[pos=0]{} ++(1.8,0) |- node[pos=0]{} ++(1.8,-4.3) -|(elind);
+\draw [arrow] (fis1.south) |- node[pos=0]{} ++(0,-0.3) -| (fis2);
+\draw [arrow] (prog1) -| node[pos=0]{} ++(1.75,0) |- (prog2);
 
 \end{tikzpicture}
 
