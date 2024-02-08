@@ -925,6 +925,12 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \hline
 49 & Fundamentos de Energias Renováveis & 30 & 10 & 2 & -\\
 \hline
+50 & Projetos elétricos & 30 & 10 & 2 & -\\
+\hline
+51 & Domótica & 20 & 20 & 2 & -\\
+\hline
+52 & (informática ???) & 30 & 10 & 2 & -\\
+\hline
 
 
 \multicolumn{2}{|l|}{ \textbf{Subtotal}} & \multicolumn{2}{|c|}{\textbf{240}} &  \textbf{12} &  \\
@@ -941,21 +947,16 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 % Inserir fluxograma %%%%%%%%%
 \usetikzlibrary{shapes.geometric, arrows}
 
-\tikzstyle{disc1} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!10]
+\tikzstyle{bas} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!10]
 
-\tikzstyle{disc2} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!20]
+\tikzstyle{prof} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!30]
 
-\tikzstyle{disc3} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!30]
+\tikzstyle{esp} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!50]
 
-\tikzstyle{disc4} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!40]
-
-\tikzstyle{disc5} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!50]
-
-\tikzstyle{disc6} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!60]
-
-\tikzstyle{disc7} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!70]
+\tikzstyle{opta} = [rectangle, rounded corners, minimum width=2.5cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=green!70]
 
 \tikzstyle{texto} = [ text, minimum width=10cm, minimum height=1cm,text centered, text width = 3cm, draw=black, fill=white]
+
 
 
 \tikzstyle{arrow} = [thick,->,>=stealth]
@@ -963,59 +964,70 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \begin{tikzpicture}[node distance = 1.7cm]
 % 1 semestre %%%%%%%%%%%%
 \draw node at (11,1.5) {\huge Fluxograma do curso};
-\node (ele1) [disc1] {\tiny Eletricidade 1 \\ 120h};
-\node (dig1) [disc1, below of=ele1] {\tiny Eletrônica Digital 1 \\ 80h};
-\node (fundprog) [disc1, below of=dig1] {\tiny Fundamentos da programação \\ 80h};
-\node (matap) [disc1, below of=fundprog] {\tiny Matemática aplicada \\ 80h};
-\node (met) [disc1, below of=matap] {\tiny Metodologia da pesquisa Científica \\ 40h};
+\node (ele1) [bas] {\tiny 01-Eletricidade 1 \\ 120h};
+\node (dig1) [prof, below of=ele1] {\tiny 03-Eletrônica Digital 1 \\ 80h};
+\node (fundprog) [prof, below of=dig1] {\tiny 04-Fundamentos da programação \\ 80h};
+\node (matap) [bas, below of=fundprog] {\tiny 05-Matemática aplicada \\ 80h};
+\node (met) [bas, below of=matap] {\tiny 35-Metodologia da pesquisa Científica \\ 40h};
 
 % 2 semestre %%%%%%%%%%%%%
-\node (inst) [disc2, right of=ele1, xshift=2cm] {\tiny Instrumentação eletrônica \\ 40h};
-\node (dig2) [disc2, below of= inst] {\tiny Eletronica Digital 2 \\ 40h};
-\node (prog1) [disc2, below of= dig2] {\tiny Linguagem de programação 1 \\ 80h};
-\node (metr) [disc2, below of= prog1] {\tiny Metrologia \\ 80h};
-\node (hst) [disc2, below of= metr] {\tiny Higiene e segurança no trabalho \\ 40h};
-\node (est) [disc2, below of= hst] {\tiny Estatística \\ 40h};
-\node (red) [disc2, below of= est] {\tiny Redes de computadores \\ 40h};
-\node (pros) [disc2, below of= red] {\tiny Projetos sociais \\ 40h};
+\node (inst) [prof, right of=ele1, xshift=2cm] {\tiny 12-Instrumentação eletrônica \\ 40h (01)};
+\node (dig2) [prof, below of= inst] {\tiny 09-Eletronica Digital 2 \\ 40h (03)};
+\node (prog1) [prof, below of= dig2] {\tiny 10-Linguagem de programação 1 \\ 80h (04)};
+\node (metr) [prof, below of= prog1] {\tiny 08-Metrologia \\ 80h};
+\node (hst) [prof, below of= metr] {\tiny 14-Higiene e segurança no trabalho \\ 40h};
+\node (est) [bas, below of= hst] {\tiny 15-Estatística \\ 40h};
+\node (red) [prof, below of= est] {\tiny 33-Redes de computadores \\ 40h};
+\node (pros) [bas, below of= red] {\tiny 43-Projetos sociais \\ 40h};
 
 % 3 semestre %%%%%%%%%%%%%
-\node (ele2) [disc3, right of=inst, xshift=2cm] {\tiny Eletricidade 2 \\ 80h};
-\node (calc) [disc3, below of= ele2] {\tiny Cálculo aplicado \\ 80h};
-\node (cad) [disc3, below of = calc] {\tiny Desenho assistido por computador \\ 80h};
-\node (fis1) [disc3, below of= cad] {\tiny Física 1 \\ 80h};
-\node (eleg) [disc3, below of= fis1] {\tiny Eletronica Geral \\ 80h};
+\node (ele2) [prof, right of=inst, xshift=2cm] {\tiny 11-Eletricidade 2 \\ 80h (05,01)};
+\node (calc) [bas, below of= ele2] {\tiny 07-Cálculo aplicado \\ 80h (05)};
+\node (cad) [prof, below of = calc] {\tiny 06-Desenho assistido por computador \\ 80h};
+\node (fis1) [bas, below of= cad] {\tiny 13-Física 1 \\ 80h (05)};
+\node (eleg) [prof, below of= fis1] {\tiny 16-Eletronica Geral \\ 80h (01)};
 
 % 4 semestre %%%%%%%%%%%%%
-\node (opt) [disc4, right of=ele2, xshift=2cm] {\tiny Disciplina Optativa \\ 40h};
-\node (micro1) [disc4, below of= opt] {\tiny Microprocrssadores 1 \\ 80h};
-\node (proe) [disc4, below of= micro1] {\tiny Projetos em eletrônica \\ 80h};
-\node (elind) [disc4, below of= proe] {\tiny Eletroônica Industrial \\ 80h};
-\node (fis2) [disc4, below of= elind] {\tiny Física 2 \\ 40h};
-\node (prog2) [disc4, below of= fis2] {\tiny Linguagem de programação 2 \\ 80h};
+\node (opt) [opta, right of=ele2, xshift=2cm] {\tiny 17-Disciplina Optativa \\ 40h};
+\node (micro1) [prof, below of= opt] {\tiny 18-Microprocrssadores 1 \\ 80h (09,10)};
+\node (proe) [prof, below of= micro1] {\tiny 19-Projetos em eletrônica \\ 80h (16)};
+\node (elind) [prof, below of= proe] {\tiny 20-Eletroônica de potência \\ 80h (16,11)};
+\node (fis2) [bas, below of= elind] {\tiny 24-Física 2 \\ 40h (13)};
+\node (prog2) [prof, below of= fis2] {\tiny 22-Linguagem de programação 2 \\ 80h (10)};
 
 % 5 semestre %%%%%%%%%%%%%
-\node (com) [disc5, right of=opt, xshift=2cm] {\tiny Comandos elétricos \\ 80h};
-\node (maqe) [disc5, below of= com] {\tiny Máquinas elétricas \\ 80h};
-\node (elem) [disc5, below of= maqe] {\tiny Elementos de máquinas \\ 40h};
-\node (cont1) [disc5, below of= elem] {\tiny Controle de processos 1 \\ 80h};
-\node (ac1) [disc5, below of= cont1] {\tiny Acionamento Pnemáticos e eletropneumáticos \\ 80h};
-\node (gest) [disc5, below of= ac1] {\tiny Gestão Empresarial \\ 40h};
+\node (com) [prof, right of=opt, xshift=2cm] {\tiny 21-Comandos elétricos \\ 80h (01)};
+\node (cont1) [esp, below of= com] {\tiny 26-Controle de processos 1 \\ 80h (07)};
+\node (maqe) [prof, below of= cont1] {\tiny 25-Máquinas elétricas \\ 80h (24)};
+\node (elem) [esp, below of= maqe] {\tiny 23-Elementos de máquinas \\ 40h (08)};
+\node (gest) [prof, below of= elem] {\tiny 40-Gestão Empresarial \\ 40h};
+\node (ac1) [esp, below of= gest, yshift=-0.3cm] {\tiny 28-Acionamento Pnemáticos e eletropneumáticos \\ 80h};
+
 
 % 6 semestre %%%%%%%%%%%%%
-\node (micro2) [disc6, right of=com, xshift=2cm] {\tiny Microprocessadores 2 \\ 80h};
-\node (prof) [disc6, below of= micro2] {\tiny Processos de fabricação \\ 80h};
-\node (acm) [disc6, below of= prof] {\tiny Acionamento de máquinas \\ 80h};
-\node (ac2) [disc6, below of= acm] {\tiny Acionamento hidraulicos e eletro hidraulicos \\ 80h};
-\node (Insti) [disc6, below of= ac2] {\tiny Instrumentação Industrial \\ 40h};
+\node (micro2) [prof, right of=com, xshift=2cm] {\tiny 27-Microprocessadores 2 \\ 80h (18)};
+\node (prof) [esp, below of= micro2] {\tiny 29-Processos de fabricação \\ 80h (23)};
+\node (acm) [esp, below of= prof, yshift=-0.2cm] {\tiny 31-Acionamento de máquinas \\ 80h (25)};
+\node (ac2) [esp, below of= acm, yshift=-0.5cm] {\tiny 34-Acionamento hidraulicos e eletro hidraulicos \\ 80h (28)};
+\node (Insti) [esp, below of= ac2, yshift=-0.5cm] {\tiny 36-Instrumentação Industrial \\ 40h (07)};
 
 % 7 semestre %%%%%%%%%%%%%
-\node (contp2) [disc7, right of=micro2, xshift=2cm] {\tiny Controle de processos 2 \\ 80h};
-\node (redi) [disc7, below of= contp2] {\tiny Redes Industriais \\ 80h};
-\node (clp) [disc7, below of= redi] {\tiny Controladores lógicos programáveis \\ 80h};
-\node (cae) [disc7, below of= clp] {\tiny Engenharia assistida por computador \\ 80h};
-\node (tcc) [disc7, below of= cae] {\tiny Trabalho de conclusão de curso \\ 40h};
-\node (conpro) [disc7, below of= tcc] {\tiny Controle da produção \\ 40h};
+\node (contp2) [esp, right of=micro2, xshift=2cm] {\tiny 32-Controle de processos 2 \\ 80h (26)};
+\node (redi) [esp, below of= contp2] {\tiny 37-Redes Industriais \\ 80h (33)};
+\node (clp) [esp, below of= redi, yshift=-0.2cm] {\tiny 38-Controladores lógicos programáveis \\ 80h (21)};
+\node (cae) [esp, below of= clp, yshift=-0.3cm] {\tiny 39-Engenharia assistida por computador \\ 80h (06,23)};
+\node (tcc) [esp, below of= cae, yshift=-0.4cm] {\tiny 41-Trabalho de conclusão de curso \\ 40h (35)};
+\node (conpro) [esp, below of= tcc, yshift=-0.2cm] {\tiny 42-Controle da produção \\ 40h};
+
+%legenda
+\node (l1)[rectangle, rounded corners, minimum width=1cm, minimum height=1cm,text centered, draw=black, fill=green!10, right of =pros, xshift=2cm ]{};
+\draw node at (l1)[xshift=2.3cm] {Disciplinas básicas};
+
+\node (l2)[rectangle, rounded corners, minimum width=1cm, minimum height=1cm,text centered, draw=black, fill=green!30, right of =l1, xshift=3cm ]{};
+\draw node at (l2)[xshift=3.3cm] {Disciplinas Profissionalizantes};
+
+\node (l3)[rectangle, rounded corners, minimum width=1cm, minimum height=1cm,text centered, draw=black, fill=green!50, right of =l2, xshift=4.9cm ]{};
+\draw node at (l3)[xshift=2.7cm] {Disciplinas Específicas};
 
 % setas de pre requisito
 \draw [arrow] (dig1) -- (dig2);
@@ -1023,9 +1035,9 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \draw [arrow] (ele1) -- (inst);
 \draw [arrow] (matap) -| node[pos=0]{} ++(1.85,2.65) -| (calc);
 \draw [arrow] (matap) -| node[pos=0]{} ++(1.85,4.25) -| (ele2);
-\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.8) -| (ele2);
+\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.9) -| (ele2);
 \draw [arrow] (matap) |- node[pos=0]{} ++(0,0.8) -| (fis1);
-\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.8) -| node[pos=0]{} ++(5.5,0) |- (eleg);
+\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.9) -| node[pos=0]{} ++(5.5,0) |- (eleg);
 \draw [arrow] (dig2) |- node[pos=0]{} ++(0,0.8) -| (micro1);
 \draw [arrow] (prog1) |- node[pos=0]{} ++(0,0.9) -| (micro1);
 \draw [arrow] (eleg) -| node[pos=0]{} ++(1.85,2.65) |- (proe);
@@ -1033,6 +1045,20 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \draw [arrow] (ele2) -| node[pos=0]{} ++(1.8,0) |- node[pos=0]{} ++(1.8,-4.3) -|(elind);
 \draw [arrow] (fis1.south) |- node[pos=0]{} ++(0,-0.3) -| (fis2);
 \draw [arrow] (prog1) -| node[pos=0]{} ++(1.75,0) |- (prog2);
+\draw [arrow] (ele1) |- node[pos=0]{} ++(0,0.9) -| (com);
+\draw [arrow] (fis2) -| node[pos=0]{} ++(1.85,2.65) |- (maqe);
+\draw [arrow] (metr) |- node[pos=0]{} ++(0,0.75) -| (elem);
+\draw [arrow] (calc) |- node[pos=0]{} ++(0,0.75) -| (cont1);
+\draw [arrow] (micro1) -| node[pos=0]{} ++(1.8,0) |- node[pos=0]{} ++(1.8,0.85) -|(micro2);
+\draw [arrow] (elem) -| node[pos=0]{} ++(1.85,2.60) |- (prof);
+\draw [arrow] (maqe) -| node[pos=0]{} ++(1.9,0) |- (acm);
+\draw [arrow] (ac1) -| node[pos=0]{} ++(1.9,0) |- (ac2);
+\draw [arrow] (calc) -| node[pos=0]{} ++(1.9,0) -| node[pos=0]{} ++(0,0) |- node[pos=0]{} ++(0,-8.3) -|(Insti);
+\draw [arrow] (cont1) -| node[pos=0]{} ++(1.7,0) |- node[pos=0]{} ++(1.7,0.80) -|(contp2);
+\draw [arrow] (red) -| node[pos=0]{} ++(16.6,0) |- (redi);
+\draw [arrow] (com) -| node[pos=0]{} ++(1.7,0) |- node[pos=0]{} ++(3.9,0.80) |-(clp);
+\draw [arrow] (met) -| node[pos=0]{} ++(1.8,0) |- node[pos=0]{} ++(0,-1.2) -| node[pos=0]{} ++(0,-3) -- node[pos=0]{} ++(18.6,0) |-(tcc);
+
 
 \end{tikzpicture}
 
