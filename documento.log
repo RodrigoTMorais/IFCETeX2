@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  8 FEB 2024 11:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  8 FEB 2024 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1607,11 +1607,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--199
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
@@ -1641,14 +1636,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--271
 
  []
 
-[4
 
-] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
+[4
 
+] [5]
 Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
@@ -1658,14 +1653,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
-[6
 
-] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
+[6
 
+] [7]
 Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
@@ -1681,9 +1676,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--293
  []
 
 
-LaTeX Warning: Citation `IEDI' on page 8 undefined on input line 294.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
@@ -1693,14 +1685,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
-[8
 
-]
 Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
+[8
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
@@ -1710,9 +1702,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
 [9]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-10.
+12.
  (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1725,23 +1722,18 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ] [15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
 
  []
 
 [16
 
 ] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 469--470
 
  []
@@ -1761,25 +1753,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
-[18
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
 
  []
 
+[18
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 487--488
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
  []
 
@@ -1798,7 +1795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 527--528
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
 
  []
 
@@ -1806,19 +1803,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 588--589
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 637--638
+Underfull \hbox (badness 10000) in paragraph at lines 633--634
 
  []
 
 [20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 639--640
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
  []
 
@@ -1828,16 +1830,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 674--675
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 676--677
-
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- []
-
-[22]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1845,7 +1842,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (13.08603pt too wide) in paragraph at lines 873--874
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (13.08603pt too wide) in paragraph at lines 869--870
  []$[]$ 
  []
 
@@ -1858,19 +1858,265 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23] [24] [25]
-Overfull \hbox (29.24873pt too wide) in paragraph at lines 1066--1067
+[22] [23] [24]
+Overfull \hbox (29.24873pt too wide) in paragraph at lines 1061--1062
 [][] 
+ []
+
+[25
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1076
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1086
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1098
+
  []
 
 [26
 
-] (documento.bbl
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1113
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1115--1116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1135--1136
+
+ []
+
+[28
+
+] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 1139--1140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1148
+
+ []
+
+[30
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
+
+ []
+
+[31
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+ []
+
+[32
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1175--1176
+
+ []
+
+[34
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1185--1186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1192
+
+ []
+
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1199--1200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1202
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1205--1206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1210
+
+ []
+
+[37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1215--1216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1229
+
+ []
+
+[38
+
+] [39
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1266--1267
+
+ []
+
+(documento.bbl [40] [41]
 bibitemlist
 )
 No file documento.ind.
-[27
-
+[42
 
 ]
 \tf@toc=\write5
@@ -1881,29 +2127,25 @@ No file documento.ind.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 37207 strings out of 475248
- 674186 string characters out of 5757813
+ 37283 strings out of 475248
+ 674966 string characters out of 5757813
  1969785 words of memory out of 5000000
- 57822 multiletter control sequences out of 15000+600000
- 609133 words of font info for 274 fonts, out of 8000000 for 9000
+ 57848 multiletter control sequences out of 15000+600000
+ 612336 words of font info for 286 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,13n,110p,1920b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
-b><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.p
-fb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
-fb>
-Output written on documento.pdf (29 pages, 192807 bytes).
+ 107i,13n,110p,2083b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/times/utmb8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/times/utmr8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/times/utmri8a.pfb>
+Output written on documento.pdf (44 pages, 260644 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 60567 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 432 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
+ 60679 words of extra memory for PDF output out of 61914 (max. 10000000)
 
