@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  2 FEB 2024 09:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  12 FEB 2024 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -986,17 +986,49 @@ aryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen303
 ))
+(C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip257
+\LTright=\skip258
+\LTpre=\skip259
+\LTpost=\skip260
+\LTchunksize=\count362
+\LTcapwidth=\dimen304
+\LT@head=\box69
+\LT@firsthead=\box70
+\LT@foot=\box71
+\LT@lastfoot=\box72
+\LT@gbox=\box73
+\LT@cols=\count363
+\LT@rows=\count364
+\c@LT@tables=\count365
+\c@LT@chunks=\count366
+\LT@p@ftn=\toks40
+)
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks40
-\inpenc@posthook=\toks41
+\inpenc@prehook=\toks41
+\inpenc@posthook=\toks42
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks42
+\@emptytoks=\toks43
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -1008,7 +1040,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip257
+\@mathmargin=\skip261
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -1016,93 +1048,93 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks43
-\ex@=\dimen304
+\@emptytoks=\toks44
+\ex@=\dimen305
 ))
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen305
+\pmbraise@=\dimen306
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count362
+\inf@bad=\count367
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count363
-\leftroot@=\count364
+\uproot@=\count368
+\leftroot@=\count369
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count365
-\DOTSCASE@=\count366
+\classnum@=\count370
+\DOTSCASE@=\count371
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box69
-\strutbox@=\box70
+\Mathstrutbox@=\box74
+\strutbox@=\box75
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen306
+\big@size=\dimen307
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count367
+\macc@depth=\count372
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count368
+\c@MaxMatrixCols=\count373
 \dotsspace@=\muskip17
-\c@parentequation=\count369
-\dspbrk@lvl=\count370
-\tag@help=\toks44
-\row@=\count371
-\column@=\count372
-\maxfields@=\count373
-\andhelp@=\toks45
-\eqnshift@=\dimen307
-\alignsep@=\dimen308
-\tagshift@=\dimen309
-\tagwidth@=\dimen310
-\totwidth@=\dimen311
-\lineht@=\dimen312
-\@envbody=\toks46
-\multlinegap=\skip258
-\multlinetaggap=\skip259
-\mathdisplay@stack=\toks47
+\c@parentequation=\count374
+\dspbrk@lvl=\count375
+\tag@help=\toks45
+\row@=\count376
+\column@=\count377
+\maxfields@=\count378
+\andhelp@=\toks46
+\eqnshift@=\dimen308
+\alignsep@=\dimen309
+\tagshift@=\dimen310
+\tagwidth@=\dimen311
+\totwidth@=\dimen312
+\lineht@=\dimen313
+\@envbody=\toks47
+\multlinegap=\skip262
+\multlinetaggap=\skip263
+\mathdisplay@stack=\toks48
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip260
-\multirow@cntb=\count374
-\multirow@dima=\skip261
-\bigstrutjot=\dimen313
+\multirow@colwidth=\skip264
+\multirow@cntb=\count379
+\multirow@dima=\skip265
+\bigstrutjot=\dimen314
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count375
-\lst@gtempboxa=\box71
-\lst@token=\toks48
-\lst@length=\count376
-\lst@currlwidth=\dimen314
-\lst@column=\count377
-\lst@pos=\count378
-\lst@lostspace=\dimen315
-\lst@width=\dimen316
-\lst@newlines=\count379
-\lst@lineno=\count380
-\lst@maxwidth=\dimen317
+\lst@mode=\count380
+\lst@gtempboxa=\box76
+\lst@token=\toks49
+\lst@length=\count381
+\lst@currlwidth=\dimen315
+\lst@column=\count382
+\lst@pos=\count383
+\lst@lostspace=\dimen316
+\lst@width=\dimen317
+\lst@newlines=\count384
+\lst@lineno=\count385
+\lst@maxwidth=\dimen318
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count381
-\lst@skipnumbers=\count382
-\lst@framebox=\box72
+\c@lstnumber=\count386
+\lst@skipnumbers=\count387
+\lst@framebox=\box77
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
@@ -1111,17 +1143,17 @@ Package: listings 2023/02/27 1.9 (Carsten Heinz)
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks49
-\MT@tempbox=\box73
-\MT@count=\count383
+\MT@toks=\toks50
+\MT@tempbox=\box78
+\MT@count=\count388
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks50
+\MT@prot@toks=\toks51
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen318
+\MT@outer@kern=\dimen319
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count384
+\MT@listname@count=\count389
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
 tex.def
@@ -1129,7 +1161,7 @@ File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip262
+\MT@outer@space=\skip266
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -1139,12 +1171,12 @@ File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e
 .sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count385
-\algocf@hangindent=\skip263
+\c@AlgoLine=\count390
+\algocf@hangindent=\skip267
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count386
+\c@checkoddpage=\count391
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ) (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -1152,68 +1184,68 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip264
-\skiplinenumber=\skip265
-\skiprule=\skip266
-\skiphlne=\skip267
-\skiptext=\skip268
-\skiplength=\skip269
-\algomargin=\skip270
-\skipalgocfslide=\skip271
-\algowidth=\dimen319
-\inoutsize=\dimen320
-\inoutindent=\dimen321
-\interspacetitleruled=\dimen322
-\interspacealgoruled=\dimen323
-\interspacetitleboxruled=\dimen324
-\algocf@ruledwidth=\skip272
-\algocf@inoutbox=\box74
-\algocf@inputbox=\box75
-\AlCapSkip=\skip273
-\AlCapHSkip=\skip274
-\algoskipindent=\skip275
-\algocf@nlbox=\box76
-\algocf@hangingbox=\box77
-\algocf@untilbox=\box78
-\algocf@skipuntil=\skip276
-\algocf@capbox=\box79
-\algocf@lcaptionbox=\skip277
-\algoheightruledefault=\skip278
-\algoheightrule=\skip279
-\algotitleheightruledefault=\skip280
-\algotitleheightrule=\skip281
-\c@algocfline=\count387
-\c@algocfproc=\count388
-\c@algocf=\count389
-\algocf@algoframe=\box80
-\algocf@algobox=\box81
+\skiptotal=\skip268
+\skiplinenumber=\skip269
+\skiprule=\skip270
+\skiphlne=\skip271
+\skiptext=\skip272
+\skiplength=\skip273
+\algomargin=\skip274
+\skipalgocfslide=\skip275
+\algowidth=\dimen320
+\inoutsize=\dimen321
+\inoutindent=\dimen322
+\interspacetitleruled=\dimen323
+\interspacealgoruled=\dimen324
+\interspacetitleboxruled=\dimen325
+\algocf@ruledwidth=\skip276
+\algocf@inoutbox=\box79
+\algocf@inputbox=\box80
+\AlCapSkip=\skip277
+\AlCapHSkip=\skip278
+\algoskipindent=\skip279
+\algocf@nlbox=\box81
+\algocf@hangingbox=\box82
+\algocf@untilbox=\box83
+\algocf@skipuntil=\skip280
+\algocf@capbox=\box84
+\algocf@lcaptionbox=\skip281
+\algoheightruledefault=\skip282
+\algoheightrule=\skip283
+\algotitleheightruledefault=\skip284
+\algotitleheightrule=\skip285
+\c@algocfline=\count392
+\c@algocfproc=\count393
+\c@algocf=\count394
+\algocf@algoframe=\box85
+\algocf@algobox=\box86
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
 sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count390
-\c@ALC@line=\count391
-\c@ALC@rem=\count392
-\c@ALC@depth=\count393
-\ALC@tlm=\skip282
-\algorithmicindent=\skip283
+\c@ALC@unique=\count395
+\c@ALC@line=\count396
+\c@ALC@rem=\count397
+\c@ALC@depth=\count398
+\ALC@tlm=\skip286
+\algorithmicindent=\skip287
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip284
-\RaggedLeftLeftskip=\skip285
-\RaggedRightLeftskip=\skip286
-\CenteringRightskip=\skip287
-\RaggedLeftRightskip=\skip288
-\RaggedRightRightskip=\skip289
-\CenteringParfillskip=\skip290
-\RaggedLeftParfillskip=\skip291
-\RaggedRightParfillskip=\skip292
-\JustifyingParfillskip=\skip293
-\CenteringParindent=\skip294
-\RaggedLeftParindent=\skip295
-\RaggedRightParindent=\skip296
-\JustifyingParindent=\skip297
+\CenteringLeftskip=\skip288
+\RaggedLeftLeftskip=\skip289
+\RaggedRightLeftskip=\skip290
+\CenteringRightskip=\skip291
+\RaggedLeftRightskip=\skip292
+\RaggedRightRightskip=\skip293
+\CenteringParfillskip=\skip294
+\RaggedLeftParfillskip=\skip295
+\RaggedRightParfillskip=\skip296
+\JustifyingParfillskip=\skip297
+\CenteringParindent=\skip298
+\RaggedLeftParindent=\skip299
+\RaggedRightParindent=\skip300
+\JustifyingParindent=\skip301
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
@@ -1221,9 +1253,9 @@ eys2e.sty
 Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count394
-\l__lipsum_a_int=\count395
-\l__lipsum_b_int=\count396
+\g__lipsum_par_int=\count399
+\l__lipsum_a_int=\count400
+\l__lipsum_b_int=\count401
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
@@ -1231,14 +1263,14 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen325
-\captionmargin=\dimen326
-\caption@leftmargin=\dimen327
-\caption@rightmargin=\dimen328
-\caption@width=\dimen329
-\caption@indent=\dimen330
-\caption@parindent=\dimen331
-\caption@hangindent=\dimen332
+\caption@tempdima=\dimen326
+\captionmargin=\dimen327
+\caption@leftmargin=\dimen328
+\caption@rightmargin=\dimen329
+\caption@width=\dimen330
+\caption@indent=\dimen331
+\caption@parindent=\dimen332
+\caption@hangindent=\dimen333
 Package caption Info: memoir document class detected.
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
@@ -1246,33 +1278,37 @@ sto
 File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
 e memoir document class (AR)
 ))
-\c@caption@flags=\count397
-\c@continuedfloat=\count398
+\c@caption@flags=\count402
+\c@continuedfloat=\count403
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen333
-\caption@adjustwidth@linewidth=\dimen334
+\caption@adjustwidth@hsize=\dimen334
+\caption@adjustwidth@linewidth=\dimen335
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
-)
+Package caption Info: longtable package is loaded.
+
+(C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
 Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.st
 y)
-\minimumbiblabelwidth=\skip298
-\ABCIauxlen=\skip299
-\c@ABCIaux=\count399
-\c@ABCImax=\count400
+\minimumbiblabelwidth=\skip302
+\ABCIauxlen=\skip303
+\c@ABCIaux=\count404
+\c@ABCImax=\count405
  (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-\biblabelsep=\skip300
+\biblabelsep=\skip304
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks51
+\ABCItoken=\toks52
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
@@ -1312,31 +1348,31 @@ LaTeX Info: Redefining \hbar on input line 50.
 )
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count401
-\pcol@nextcol=\count402
-\pcol@ncol=\count403
-\pcol@ncolleft=\count404
-\pcol@page=\count405
-\pcol@basepage=\count406
-\pcol@toppage=\count407
-\pcol@footnotebase=\count408
-\pcol@nfootnotes=\count409
-\pcol@mcid=\count410
-\pcol@prevdepth=\dimen335
-\pcol@colht=\dimen336
-\pcol@textfloatsep=\dimen337
-\pcol@lrmargin=\dimen338
-\pagerim=\dimen339
-\pcol@topskip=\skip301
-\belowfootnoteskip=\skip302
-\pcol@topfnotes=\box82
-\pcol@prespan=\box83
-\pcol@rightpage=\box84
-\pcol@colorstack@saved=\box85
-\pcol@tempboxa=\box86
-\pcol@tempboxb=\box87
+\pcol@currcol=\count406
+\pcol@nextcol=\count407
+\pcol@ncol=\count408
+\pcol@ncolleft=\count409
+\pcol@page=\count410
+\pcol@basepage=\count411
+\pcol@toppage=\count412
+\pcol@footnotebase=\count413
+\pcol@nfootnotes=\count414
+\pcol@mcid=\count415
+\pcol@prevdepth=\dimen336
+\pcol@colht=\dimen337
+\pcol@textfloatsep=\dimen338
+\pcol@lrmargin=\dimen339
+\pagerim=\dimen340
+\pcol@topskip=\skip305
+\belowfootnoteskip=\skip306
+\pcol@topfnotes=\box87
+\pcol@prespan=\box88
+\pcol@rightpage=\box89
+\pcol@colorstack@saved=\box90
+\pcol@tempboxa=\box91
+\pcol@tempboxb=\box92
 \pcol@colorins=\insert247
-\pcol@everyvbox=\toks52
+\pcol@everyvbox=\toks53
 )
 (ifcetex2.sty
 
@@ -1359,64 +1395,64 @@ Sidefoothsep and sidefootwidth: 7pt and 42pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
-\enitdp@alineascomponto=\count411
-\c@subalineascompontoi=\count412
-\enitdp@subalineascomponto=\count413
-\c@alineascomnumeroi=\count414
-\c@alineascomnumeroii=\count415
-\enitdp@alineascomnumero=\count416
-\c@subalineascomnumeroi=\count417
-\enitdp@subalineascomnumero=\count418
-\c@quest=\count419
-\c@figura=\count420
-\cftbeforefiguraskip=\skip303
-\cftfiguraindent=\skip304
-\cftfiguranumwidth=\skip305
-\c@quadro=\count421
-\c@loqdepth=\count422
-\cftbeforequadroskip=\skip306
-\cftquadroindent=\skip307
-\cftquadronumwidth=\skip308
-\myAlgoLen=\skip309
-\cftbeforealgocfskip=\skip310
-\cftalgocfindent=\skip311
-\cftalgocfnumwidth=\skip312
-\mylen=\skip313
-\cftbeforelstlistingskip=\skip314
-\cftlstlistingindent=\skip315
-\cftlstlistingnumwidth=\skip316
+\enitdp@alineascomponto=\count416
+\c@subalineascompontoi=\count417
+\enitdp@subalineascomponto=\count418
+\c@alineascomnumeroi=\count419
+\c@alineascomnumeroii=\count420
+\enitdp@alineascomnumero=\count421
+\c@subalineascomnumeroi=\count422
+\enitdp@subalineascomnumero=\count423
+\c@quest=\count424
+\c@figura=\count425
+\cftbeforefiguraskip=\skip307
+\cftfiguraindent=\skip308
+\cftfiguranumwidth=\skip309
+\c@quadro=\count426
+\c@loqdepth=\count427
+\cftbeforequadroskip=\skip310
+\cftquadroindent=\skip311
+\cftquadronumwidth=\skip312
+\myAlgoLen=\skip313
+\cftbeforealgocfskip=\skip314
+\cftalgocfindent=\skip315
+\cftalgocfnumwidth=\skip316
+\mylen=\skip317
+\cftbeforelstlistingskip=\skip318
+\cftlstlistingindent=\skip319
+\cftlstlistingnumwidth=\skip320
 ) (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen340
-\ESO@tempdimb=\dimen341
+\ESO@tempdima=\dimen341
+\ESO@tempdimb=\dimen342
 )
-\AM@pagewidth=\dimen342
-\AM@pageheight=\dimen343
-\AM@fboxrule=\dimen344
+\AM@pagewidth=\dimen343
+\AM@pageheight=\dimen344
+\AM@fboxrule=\dimen345
 
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count423
-\AM@pagebox=\box88
-\AM@global@opts=\toks53
-\AM@pagecnt=\count424
-\AM@toc@title=\toks54
-\AM@lof@heading=\toks55
-\c@AM@survey=\count425
-\AM@templatesizebox=\box89
+\pdfpages@includegraphics@status=\count428
+\AM@pagebox=\box93
+\AM@global@opts=\toks54
+\AM@pagecnt=\count429
+\AM@toc@title=\toks55
+\AM@lof@heading=\toks56
+\c@AM@survey=\count430
+\AM@templatesizebox=\box94
 ) (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-\c@proposition=\count426
-\c@theorem=\count427
-\c@lemma=\count428
-\c@definition=\count429
-\c@exemplo=\count430
-\c@corollary=\count431
-\c@exercicio=\count432
+\c@proposition=\count431
+\c@theorem=\count432
+\c@lemma=\count433
+\c@definition=\count434
+\c@exemplo=\count435
+\c@corollary=\count436
+\c@exercicio=\count437
 )
 ! Emergency stop.
 <*> ./preambulo.tex
@@ -1425,10 +1461,10 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 
  
 Here is how much of TeX's memory you used:
- 35100 strings out of 475248
- 638649 string characters out of 5757813
+ 35306 strings out of 475248
+ 643086 string characters out of 5757813
  1919785 words of memory out of 5000000
- 56145 multiletter control sequences out of 15000+600000
+ 56336 multiletter control sequences out of 15000+600000
  559431 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,1n,107p,455b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
