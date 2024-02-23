@@ -12,6 +12,9 @@
 
 \ehqualificacao{nao}
 
+% define se é para adicionar os anexos à impressão
+\imprimirAnexos{sim}
+
 % Remove as bordas vermelhas e verdes do PDF gerado, coloque 'sim' para remover
 
 \removerbordasdohyperlink{sim} 
@@ -146,7 +149,7 @@ Fábio Lavor Bezerra – Representante Docente\\
 Francisco Erlânio Teles Pereira – Representante Discente\\
 Italo Jean Silva Sousa - Representante discente}
 
-
+\input{PUDs/PUD}
 \begin{document}	
 
 % Elementos pré-textuais
@@ -164,7 +167,7 @@ Italo Jean Silva Sousa - Representante discente}
 %\imprimirabstract{elementos-pre-textuais/abstract}
 %\imprimirlistadefiguras
 %\imprimirlistadetabelas
-%\imprimirlistadequadros
+\imprimirlistadequadros
 %\imprimirlistadealgoritmos
 %\imprimirlistadecodigosfonte
 %\imprimirlistadesiglas{elementos-pre-textuais/lista-de-siglas}
@@ -180,7 +183,7 @@ Italo Jean Silva Sousa - Representante discente}
 Identificação da instituição de ensino\\
 
 %identificação da instituição
-\begin{tabular}{|p{5cm}|p{1.5cm}|p{7cm}|}
+\begin{tabular}{|p{5cm}|p{1.5cm}|p{5cm}|}
 \hline 
 \multicolumn{3}{|p{14cm}|}{Nome: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - campus Juazeiro do Norte} \\ 
 \hline 
@@ -192,7 +195,7 @@ Juazeiro do Norte – CE, CEP. 63.040-540.} \\
 Cidade: Juazeiro do Norte & UF:
 CE & Fone: (88) 2101-5300 \\ 
 \hline 
-\multicolumn{2}{|p{7cm}|}{E-mail: gabinetejn@ifce.edu.br} & Página institucional da internet:
+\multicolumn{2}{|p{6cm}|}{E-mail: gabinetejn@ifce.edu.br} & Página institucional da internet:
 http://ifce.edu.br/juazeirodonorte \\ 
 \hline 
 \end{tabular} \\
@@ -200,7 +203,7 @@ http://ifce.edu.br/juazeirodonorte \\
 \vspace{1cm}
 Informações Gerais do Curso
 
-\begin{tabular}{|p{7cm}|p{7cm}|}
+\begin{tabular}{|p{6cm}|p{6cm}|}
 \hline 
 Denominação & Curso Superior de
 Tecnologia em Automação
@@ -681,11 +684,11 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem1} Disciplinas 1º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 1º Semestre} \\
 \hline
-\textbf{Código} & \textbf{DISCIPLINA} & \textbf{C.H. teórica} & \textbf{C.H. prática} & Cred. & PR. \\
+\textbf{Código} & \textbf{DISCIPLINA} & \textbf{C.H. teórica} & \textbf{C.H. prática} & \textbf{Cred.} & \textbf{PR.} \\
 \hline
 01 & Eletricidade 1 & 80 & 0 & 4 & -\\
 \hline
@@ -711,7 +714,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem2} Disciplinas 2º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 2º Semestre} \\
 \hline
@@ -747,7 +750,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem3} Disciplinas 3º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 3º Semestre} \\
 \hline
@@ -777,7 +780,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem4} Disciplinas 4º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 4º Semestre} \\
 \hline
@@ -809,7 +812,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem5} Disciplinas 5º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 5º Semestre} \\
 \hline
@@ -842,7 +845,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem6} Disciplinas 6º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 6º Semestre} \\
 \hline
@@ -874,7 +877,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-sem7} Disciplinas 7º Semestre}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas do 7º Semestre} \\
 \hline
@@ -906,7 +909,7 @@ A matriz curricular proposta considera a inter-relação existente entre ensino,
 \centering
 \Caption{\label{qua:matriz-optativas} Disciplinas optativas}		
 \IFCEqua{}{
-\begin{tabular}{|c|c|c|c|c|c|}
+\begin{tabular}{|@{ }c@{ }|m{4cm}|@{ }c@{ }|@{ }c@{ }|c|c|c|c|}
 \hline
 \multicolumn{6}{|c|}{ Disciplinas Optativas} \\
 \hline
@@ -1685,7 +1688,7 @@ Atende as disciplinas de Acionamento Pneumático/Eletropneumático, Acionamento 
 \item sistema de ar comprimido.
 \end{itemize}
 
-\subsubsection{Laboratórios de sistemas digitais.}
+\subsection{Laboratórios de sistemas digitais.}
 Atende as disciplinas de eletrônica digital e Microprossesadores. E conta com os seguintes equipamentos:
 \begin{itemize}
 \item 8 Kit didático para eletronica digital Exsto;
@@ -1749,7 +1752,7 @@ Atende à disciplina de Eletrotécnica. Conta com os seguintes equipamentos:
 \item Ferramentas diversas para instalações elétricas. 
 \end{itemize}
 
-\subsection*{Laboratório de máquinas elétricas}
+\subsection{Laboratório de máquinas elétricas}
 Atende às seguintes disciplinas: Comandos Elétricos, Máquinas Elétricas e Acionamento de Máquinas. Conta com os seguintes equipamentos:
 
 \begin{itemize}
@@ -1853,4 +1856,50 @@ Atende a disciplina de produção assistida por computador, e demais disciplinas
 %\input{elementos-pos-textuais/anexo-a}		
 \imprimirindice
 
+\ifthenelse{\boolean{ifcetex2@imprimirAnexos}}{
+\begin{appendices}
+   \addappheadtotoc
+  \appendixpage
+   \clearpage
+
+%\input{PUDs/eletronica-digital1}
+%\input{PUDs/Eletricidade1}
+
+
+\end{appendices}
+%1 semestre
+\includepdf[pages=-]{PUDs/Eletricidade1.pdf}
+\includepdf[pages=-]{PUDs/eletronica_Digital_1.pdf}
+\includepdf[pages=-]{PUDs/fundamentos_da_programacao.pdf}
+\includepdf[pages=-]{PUDs/matematica_aplicada.pdf}
+\includepdf[pages=-]{PUDs/metodologia_da_pesquisa_científica.pdf}
+%2 semestre
+\includepdf[pages=-]{PUDs/metrologia.pdf}
+\includepdf[pages=-]{PUDs/eletronica_Digital_2.pdf}
+\includepdf[pages=-]{PUDs/linguagem_de_programacao1.pdf}
+\includepdf[pages=-]{PUDs/Instrumentacao_eletronica.pdf}
+\includepdf[pages=-]{PUDs/higiene_e_seguranca_do_Trabalho.pdf}
+\includepdf[pages=-]{PUDs/estatistica.pdf}
+\includepdf[pages=-]{PUDs/redes_de_computadores.pdf}
+\includepdf[pages=-]{PUDs/projetos_sociais.pdf}
+%3 semestre
+\includepdf[pages=-]{PUDs/desenho_assistido_por_computador.pdf}
+\includepdf[pages=-]{PUDs/calculo_aplicado.pdf}
+\includepdf[pages=-]{PUDs/eletricidade2.pdf}
+\includepdf[pages=-]{PUDs/fisica1.pdf}
+\includepdf[pages=-]{PUDs/eletronica_geral.pdf}
+%4 semestre
+%\includepdf[pages=-]{PUDs/.pdf}
+
+
+
+
+
+
+
+
+}
+
 \end{document}
+
+

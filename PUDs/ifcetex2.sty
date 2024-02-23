@@ -256,8 +256,6 @@ justification=justified}
 }
 
 % Variaveis utilizada para gerar o documento de qualificacao
-\provideboolean{ifcetex2@imprimirAnexos}
-\setboolean{ifcetex2@imprimirAnexos}{false}
 
 \provideboolean{ifcetex2@ehqualificacao}
 \setboolean{ifcetex2@ehqualificacao}{false}
@@ -265,13 +263,6 @@ justification=justified}
 \newcommand{\ehqualificacao}[1]{
 	\ifthenelse{\equal{#1}{sim}}{%
 		\setboolean{ifcetex2@ehqualificacao}{true}
-	}
-}
-
-
-\newcommand{\imprimirAnexos}[1]{
-	\ifthenelse{\equal{#1}{sim}}{%
-		\setboolean{ifcetex2@imprimirAnexos}{true}
 	}
 }
 

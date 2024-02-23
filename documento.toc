@@ -1,85 +1,89 @@
 \changetocdepth {4}
 \babel@toc {brazil}{}\relax 
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Apresentação}}{5}{chapter.1}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Contextualização da Instituição}}{7}{chapter.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Justificativa para criação do Curso}}{9}{chapter.3}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Fundamentação Legal}}{11}{chapter.4}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Objetivos do Curso}}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Objetivo Geral}{14}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Objetivos específicos}{14}{section.5.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Formas de Ingresso}}{15}{chapter.6}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Áreas de Atuação}}{16}{chapter.7}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Perfil Esperado do Futuro Profissional}}{17}{chapter.8}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase []{Metodologia}}{19}{chapter.9}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase []{Estrutura Curricular}}{21}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Organização Curricular}{21}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Matriz Curricular}{23}{section.10.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase []{Fluxograma}}{26}{chapter.11}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase []{Avaliação de Aprendizagem}}{27}{chapter.12}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {13}\MakeTextUppercase []{Atividade de extensão}}{29}{chapter.13}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {14}\MakeTextUppercase []{Estágio}}{31}{chapter.14}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {15}\MakeTextUppercase []{CRITÉRIOS DE APROVEITAMENTO DE CONHECIMENTOS E EXPERIÊNCIAS ANTERIORES}}{32}{chapter.15}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {16}\MakeTextUppercase []{Trabalho de Conclusão de Curso}}{33}{chapter.16}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {17}\MakeTextUppercase []{EMISSÃO DE DIPLOMA}}{35}{chapter.17}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {18}\MakeTextUppercase []{AVALIAÇÃO DO PROJETO DO CURSO}}{36}{chapter.18}%
-\contentsline {section}{\numberline {18.1}CPA}{36}{section.18.1}%
-\contentsline {section}{\numberline {18.2}NDE}{37}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Colegiado}{37}{section.18.3}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {19}\MakeTextUppercase []{POLÍTICAS INSTITUCIONAIS CONSTANTES DO PDI NO ÂMBITO DO CURSO}}{38}{chapter.19}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {20}\MakeTextUppercase []{APOIO AO DISCENTE}}{39}{chapter.20}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {21}\MakeTextUppercase []{Atuação do coordenador}}{40}{chapter.21}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {22}\MakeTextUppercase []{Corpo Docente}}{43}{chapter.22}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {23}\MakeTextUppercase []{Corpo Técnico Administrativo}}{45}{chapter.23}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {24}\MakeTextUppercase []{Infraestrutura}}{48}{chapter.24}%
-\contentsline {section}{\numberline {24.1}Biblioteca}{48}{section.24.1}%
-\contentsline {subsection}{\numberline {24.1.1}Produtos e serviços oferecidos pela biblioteca:}{51}{subsection.24.1.1}%
-\contentsline {section}{\numberline {24.2}Infraestrutura Física e recursos materiais}{52}{section.24.2}%
-\contentsline {subsection}{\numberline {24.2.1}Salas para Coordenação de curso}{52}{subsection.24.2.1}%
-\contentsline {subsection}{\numberline {24.2.2}Sala de Professores}{52}{subsection.24.2.2}%
-\contentsline {subsection}{\numberline {24.2.3}Sala de descanso}{52}{subsection.24.2.3}%
-\contentsline {subsection}{\numberline {24.2.4}Instalações Gerais e Salas de Aula}{53}{subsection.24.2.4}%
-\contentsline {subsection}{\numberline {24.2.5}Auditório}{53}{subsection.24.2.5}%
-\contentsline {subsection}{\numberline {24.2.6}Espaço para atendimento aos alunos}{53}{subsection.24.2.6}%
-\contentsline {subsection}{\numberline {24.2.7}Infraestrutura para CPA}{53}{subsection.24.2.7}%
-\contentsline {subsection}{\numberline {24.2.8}Instalações Sanitárias}{53}{subsection.24.2.8}%
-\contentsline {subsection}{\numberline {24.2.9}Espaço de convivência e alimentação}{54}{subsection.24.2.9}%
-\contentsline {subsection}{\numberline {24.2.10}Recursos de tecnologia da informação e comunicação.}{54}{subsection.24.2.10}%
-\contentsline {subsection}{\numberline {24.2.11}Infraestrutura de Laboratório de Informática conectado à internet}{54}{subsection.24.2.11}%
-\contentsline {section}{\numberline {24.3}Infraestrutura de Laboratórios}{55}{section.24.3}%
-\contentsline {subsection}{\numberline {24.3.1}Laboratório de Matemática}{55}{subsection.24.3.1}%
-\contentsline {subsection}{\numberline {24.3.2}Laboratório de Física}{55}{subsection.24.3.2}%
-\contentsline {subsection}{\numberline {24.3.3}Laboratório de sistemas industriais}{55}{subsection.24.3.3}%
-\contentsline {subsection}{\numberline {24.3.4}Laboratório de hidráulica e pneumática}{56}{subsection.24.3.4}%
-\contentsline {subsubsection}{\numberline {24.3.4.1}Laboratórios de sistemas digitais.}{56}{subsubsection.24.3.4.1}%
-\contentsline {subsection}{\numberline {24.3.5}Laboratório de eletrônica e eletricidade}{57}{subsection.24.3.5}%
-\contentsline {subsection}{\numberline {24.3.6}Laboratório de instalações elétricas.}{58}{subsection.24.3.6}%
-\contentsline {subsection}{\numberline {24.3.7}Laboratório de mecânica}{59}{subsection.24.3.7}%
-\contentsline {subsection}{\numberline {24.3.8}Laboratório de medidas elétricas e metrologia}{60}{subsection.24.3.8}%
-\contentsline {subsection}{\numberline {24.3.9}Laboratório de criação e prototipagem}{61}{subsection.24.3.9}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{62}{section*.18}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Apresentação}}{6}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Contextualização da Instituição}}{8}{chapter.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Justificativa para criação do Curso}}{10}{chapter.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Fundamentação Legal}}{12}{chapter.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Objetivos do Curso}}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Objetivo Geral}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Objetivos específicos}{15}{section.5.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Formas de Ingresso}}{16}{chapter.6}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Áreas de Atuação}}{17}{chapter.7}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Perfil Esperado do Futuro Profissional}}{18}{chapter.8}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase []{Metodologia}}{20}{chapter.9}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase []{Estrutura Curricular}}{22}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Organização Curricular}{22}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Matriz Curricular}{24}{section.10.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase []{Fluxograma}}{27}{chapter.11}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase []{Avaliação de Aprendizagem}}{28}{chapter.12}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {13}\MakeTextUppercase []{Atividade de extensão}}{30}{chapter.13}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {14}\MakeTextUppercase []{Estágio}}{32}{chapter.14}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {15}\MakeTextUppercase []{CRITÉRIOS DE APROVEITAMENTO DE CONHECIMENTOS E EXPERIÊNCIAS ANTERIORES}}{33}{chapter.15}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {16}\MakeTextUppercase []{Trabalho de Conclusão de Curso}}{34}{chapter.16}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {17}\MakeTextUppercase []{EMISSÃO DE DIPLOMA}}{36}{chapter.17}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {18}\MakeTextUppercase []{AVALIAÇÃO DO PROJETO DO CURSO}}{37}{chapter.18}%
+\contentsline {section}{\numberline {18.1}CPA}{37}{section.18.1}%
+\contentsline {section}{\numberline {18.2}NDE}{38}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Colegiado}{38}{section.18.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {19}\MakeTextUppercase []{POLÍTICAS INSTITUCIONAIS CONSTANTES DO PDI NO ÂMBITO DO CURSO}}{39}{chapter.19}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {20}\MakeTextUppercase []{APOIO AO DISCENTE}}{40}{chapter.20}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {21}\MakeTextUppercase []{Atuação do coordenador}}{41}{chapter.21}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {22}\MakeTextUppercase []{Corpo Docente}}{44}{chapter.22}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {23}\MakeTextUppercase []{Corpo Técnico Administrativo}}{46}{chapter.23}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {24}\MakeTextUppercase []{Infraestrutura}}{49}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Biblioteca}{49}{section.24.1}%
+\contentsline {subsection}{\numberline {24.1.1}Produtos e serviços oferecidos pela biblioteca:}{52}{subsection.24.1.1}%
+\contentsline {section}{\numberline {24.2}Infraestrutura Física e recursos materiais}{53}{section.24.2}%
+\contentsline {subsection}{\numberline {24.2.1}Salas para Coordenação de curso}{53}{subsection.24.2.1}%
+\contentsline {subsection}{\numberline {24.2.2}Sala de Professores}{53}{subsection.24.2.2}%
+\contentsline {subsection}{\numberline {24.2.3}Sala de descanso}{53}{subsection.24.2.3}%
+\contentsline {subsection}{\numberline {24.2.4}Instalações Gerais e Salas de Aula}{54}{subsection.24.2.4}%
+\contentsline {subsection}{\numberline {24.2.5}Auditório}{54}{subsection.24.2.5}%
+\contentsline {subsection}{\numberline {24.2.6}Espaço para atendimento aos alunos}{54}{subsection.24.2.6}%
+\contentsline {subsection}{\numberline {24.2.7}Infraestrutura para CPA}{54}{subsection.24.2.7}%
+\contentsline {subsection}{\numberline {24.2.8}Instalações Sanitárias}{54}{subsection.24.2.8}%
+\contentsline {subsection}{\numberline {24.2.9}Espaço de convivência e alimentação}{55}{subsection.24.2.9}%
+\contentsline {subsection}{\numberline {24.2.10}Recursos de tecnologia da informação e comunicação.}{55}{subsection.24.2.10}%
+\contentsline {subsection}{\numberline {24.2.11}Infraestrutura de Laboratório de Informática conectado à internet}{55}{subsection.24.2.11}%
+\contentsline {section}{\numberline {24.3}Infraestrutura de Laboratórios}{56}{section.24.3}%
+\contentsline {subsection}{\numberline {24.3.1}Laboratório de Matemática}{56}{subsection.24.3.1}%
+\contentsline {subsection}{\numberline {24.3.2}Laboratório de Física}{56}{subsection.24.3.2}%
+\contentsline {subsection}{\numberline {24.3.3}Laboratório de sistemas industriais}{56}{subsection.24.3.3}%
+\contentsline {subsection}{\numberline {24.3.4}Laboratório de hidráulica e pneumática}{57}{subsection.24.3.4}%
+\contentsline {subsection}{\numberline {24.3.5}Laboratórios de sistemas digitais.}{57}{subsection.24.3.5}%
+\contentsline {subsection}{\numberline {24.3.6}Laboratório de eletrônica e eletricidade}{58}{subsection.24.3.6}%
+\contentsline {subsection}{\numberline {24.3.7}Laboratório de instalações elétricas.}{59}{subsection.24.3.7}%
+\contentsline {subsection}{\numberline {24.3.8}Laboratório de máquinas elétricas}{59}{subsection.24.3.8}%
+\contentsline {subsection}{\numberline {24.3.9}Laboratório de mecânica}{60}{subsection.24.3.9}%
+\contentsline {subsection}{\numberline {24.3.10}Laboratório de medidas elétricas e metrologia}{61}{subsection.24.3.10}%
+\contentsline {subsection}{\numberline {24.3.11}Laboratório de criação e prototipagem}{62}{subsection.24.3.11}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{63}{section*.18}%
+\contentsline {chapter}{Appendices}{63}{section*.19}%
+\contentsline {chapter}{Appendices}{64}{section*.20}%

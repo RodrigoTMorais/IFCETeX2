@@ -1,0 +1,177 @@
+%arquivo de template para os PUDS
+
+%definição das variaveis das seções
+\newcommand{\disciplina}{\def \disciplina}
+\newcommand{\imprimirdisciplina}{\disciplina}
+
+\newcommand{\codigo}{\def \codigo}
+\newcommand{\imprimircodigo}{\codigo}
+
+\newcommand{\cargaHorariaTotal}{\def \cargaHorariaTotal}
+\newcommand{\imprimircargaHorariaTotal}{\cargaHorariaTotal}
+
+\newcommand{\cargaHorariaPratica}{\def \cargaHorariaPratica}
+\newcommand{\imprimircargaHorariaPratica}{\cargaHorariaPratica}
+
+\newcommand{\cargaHorariaTeorica}{\def \cargaHorariaTeorica}
+\newcommand{\imprimircargaHorariaTeorica}{\cargaHorariaTeorica}
+
+\newcommand{\creditos}{\def \creditos}
+\newcommand{\imprimircreditos}{\creditos}
+
+\newcommand{\codigoPrerequisitos}{\def \codigoPrerequisitos}
+\newcommand{\imprimircodigoPrerequisitos}{\codigoPrerequisitos}
+
+\newcommand{\semestre}{\def \semestre}
+\newcommand{\imprimirsemestre}{\semestre}
+
+\newcommand{\nivel}{\def \nivel}
+\newcommand{\imprimirnivel}{\nivel}
+
+\newcommand{\codigoEquivalencias}{\def \codigoEquivalencias}
+\newcommand{\imprimircodigoEquivalencias}{\codigoEquivalencias}
+
+\newcommand{\ementa}{\def \ementa}
+\newcommand{\imprimirementa}{\ementa}
+
+\newcommand{\objetivo}{\def \objetivo}
+\newcommand{\imprimirobjetivo}{\objetivo}
+
+\newcommand{\programa}{\def \programa}
+\newcommand{\imprimirprograma}{\programa}
+
+\newcommand{\metodologiaEnsino}{\def \metodologiaEnsino}
+\newcommand{\imprimirmetodologiaEnsino}{\metodologiaEnsino}
+
+\newcommand{\recursos}{\def \recursos}
+\newcommand{\imprimirrecursos}{\recursos}
+
+\newcommand{\avaliacao}{\def \avaliacao}
+\newcommand{\imprimiravaliacao}{\avaliacao}
+
+\newcommand{\bibliografiaBasica}{\def \bibliografiaBasica}
+\newcommand{\imprimirbibliografiaBasica}{\bibliografiaBasica}
+
+\newcommand{\bibliografiaComplementar}{\def \bibliografiaComplementar}
+\newcommand{\imprimirbibliografiaComplementar}{\bibliografiaComplementar}
+
+\newcommand{\versao}{\def \versao}
+\newcommand{\imprimirversao}{\versao}
+
+
+%comando de impressão da estrutura
+\newcommand{\imprimirPUD}{
+%Cabeçalho do PUD
+\begin{Spacing}{1}
+
+\noindent \begin{minipage}{2.5cm}%
+\includegraphics[scale=0.12]{logo-ifce}
+\end{minipage}
+\hspace{0.3cm}
+\begin{minipage}{13cm}%
+\centering INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO CEARÁ- IFCE\\
+CAMPUS JUAZEIRO DO NORTE\\
+CURSO SUPERIOR EM AUTOMAÇÃO INDUSTRIAL\\
+PROGRAMA DE UNIDADE DIDÁTICA – PUD\\
+\end{minipage}%
+\end{Spacing}
+
+\begin{longtable}{|p{14cm}|}
+%primeiro cabeçalho
+\hline
+\rowcolor{lightgray}
+\multicolumn{1}{p{14cm}}{\textbf{Disciplina: \imprimirdisciplina}}\\
+\hline
+\endfirsthead
+
+%cabeçalho
+\hline
+continuação PUD \imprimirdisciplina\\
+\hline
+\endhead
+
+\hline
+continua...\\
+\hline
+\endfoot
+
+\hline
+\rowcolor{lightgray}
+
+\begin{tabular}{p{5.5 cm}| l}
+coordenação & departamento pedagogico\\[16 ex]
+\end{tabular}\\
+
+\hline
+
+\endlastfoot
+
+%elementos
+\textbf{Código:} \imprimircodigo\\
+
+
+\textbf{Carga Horária } Teórica: \imprimircargaHorariaTeorica, Prática \imprimircargaHorariaPratica, Total: \imprimircargaHorariaTotal\\
+
+
+\textbf{Número de créditos:} \imprimircreditos\\
+
+
+\textbf{Código pré-requisitos:} \imprimircodigoPrerequisitos\\
+
+
+\textbf{Semestre:} \imprimirsemestre\\
+
+
+\textbf{Nível:} \imprimirnivel\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Ementa}}\\
+\hline
+\multicolumn{1}{|p{14cm}|}{\imprimirementa}\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Objetivo}}\\
+\hline
+\imprimirobjetivo\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Programa}}\\
+\hline
+\imprimirprograma\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Metodologia de ensino}}\\
+\hline
+\imprimirmetodologiaEnsino\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Recursos}}\\
+\hline
+\imprimirrecursos\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Avaliação}}\\
+\hline
+\imprimiravaliacao\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Bibliografia básica}}\\
+\hline
+\imprimirbibliografiaBasica\\
+\hline
+
+\rowcolor{lightgray}
+\multicolumn{1}{|p{14cm}|}{\textbf{Bibliografia complementar}}\\
+\hline
+\imprimirbibliografiaComplementar\\
+\hline
+\end{longtable}
+\pagebreak
+}
