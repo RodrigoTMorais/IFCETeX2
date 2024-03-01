@@ -83,7 +83,11 @@
 \contentsline {subsection}{\numberline {24.3.9}Laboratório de mecânica}{60}{subsection.24.3.9}%
 \contentsline {subsection}{\numberline {24.3.10}Laboratório de medidas elétricas e metrologia}{61}{subsection.24.3.10}%
 \contentsline {subsection}{\numberline {24.3.11}Laboratório de criação e prototipagem}{62}{subsection.24.3.11}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {25}\MakeTextUppercase []{Plano de migração de grade}}{63}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Da Migração}{63}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Equivalência}{63}{section.25.2}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{63}{section*.18}%
-\contentsline {chapter}{Appendices}{63}{section*.19}%
-\contentsline {chapter}{Appendices}{64}{section*.20}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{65}{section*.19}%
+\contentsline {chapter}{Appendices}{65}{section*.20}%
+\contentsline {chapter}{Appendices}{66}{section*.21}%

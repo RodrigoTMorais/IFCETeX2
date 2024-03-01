@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  22 FEB 2024 21:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  29 FEB 2024 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2680,1299 +2680,2459 @@ Underfull \hbox (badness 10000) in paragraph at lines 1661--1662
 
  []
 
-[56] [57] [58] [59] [60] [61] (documento.bbl [62]
+[56] [57] [58] [59] [60] [61] [62]
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1853
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1854--1855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(documento.bbl [63
+
+] [64]
 bibitemlist
 )
 No file documento.ind.
-[63
+[65
 
-] [64
+] [66
 
 ]
-<PUDs/Eletricidade1.pdf, id=466, 597.50829pt x 845.0471pt>
+<PUDs/Eletricidade1.pdf, id=485, 597.50829pt x 845.0471pt>
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/Eletricidade1.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/Eletricidade1.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/Eletricidade1.pdf, id=469, page=1, 597.50829pt x 845.0471pt>
+<PUDs/Eletricidade1.pdf, id=488, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 1>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 1>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 1>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 1>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 1>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [65
+ [67
 
  <./PUDs/Eletricidade1.pdf>]
-<PUDs/Eletricidade1.pdf, id=491, page=2, 597.50829pt x 845.0471pt>
+<PUDs/Eletricidade1.pdf, id=509, page=2, 597.50829pt x 845.0471pt>
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 2>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
-<use PUDs/Eletricidade1.pdf, page 2>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 2>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [66 <./PUDs/Eletricidade1.pdf>]
-<PUDs/Eletricidade1.pdf, id=496, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
-<use PUDs/Eletricidade1.pdf, page 3>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
+<use PUDs/Eletricidade1.pdf, page 2>
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page2 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [68 <./PUDs/Eletricidade1.pdf>]
+<PUDs/Eletricidade1.pdf, id=514, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 3>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
 <use PUDs/Eletricidade1.pdf, page 3>
-Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 1902
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/Eletricidade1.pdf Graphic file (type pdf)
+<use PUDs/Eletricidade1.pdf, page 3>
+Package pdftex.def Info: PUDs/Eletricidade1.pdf , page3 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-[67 <./PUDs/Eletricidade1.pdf>]
-<PUDs/eletronica_Digital_1.pdf, id=501, 597.50829pt x 845.0471pt>
+[69 <./PUDs/Eletricidade1.pdf>]
+<PUDs/eletronica_Digital_1.pdf, id=519, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf  used on input line 1902
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf  used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf  used on input line 1902
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf  used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/eletronica_Digital_1.pdf, id=504, page=1, 597.50829pt x 845.0471pt>
+<PUDs/eletronica_Digital_1.pdf, id=522, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_1.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page1 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [68 <./PUDs/eletronica_Digital_1.pdf>]
-<PUDs/eletronica_Digital_1.pdf, id=521, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [69 <./PUDs/eletronica_Digital_1.pdf>]
-<PUDs/eletronica_Digital_1.pdf, id=526, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_1.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [70 <./PUDs/eletronica_Digital_1.pdf>]
-<PUDs/fundamentos_da_programacao.pdf, id=531, 597.50829pt x 845.0471pt>
+<PUDs/eletronica_Digital_1.pdf, id=539, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [71 <./PUDs/eletronica_Digital_1.pdf>]
+<PUDs/eletronica_Digital_1.pdf, id=545, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_1.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_1.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_1.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [72 <./PUDs/eletronica_Digital_1.pdf>]
+<PUDs/fundamentos_da_programacao.pdf, id=550, 597.50829pt x 845.0471pt>
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf  used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf  used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/fundamentos_da_programacao.pdf, id=534, page=1, 597.50829pt x 845.0471pt>
+<PUDs/fundamentos_da_programacao.pdf, id=553, page=1, 597.50829pt x 845.0471pt>
 
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf, page 1>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page1 used on in
-put line 1902.
+put line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf, page 1>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page1 used on in
-put line 1902.
+put line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf, page 1>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page1 used on in
-put line 1902.
+put line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf, page 1>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page1 used on in
-put line 1902.
+put line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
 <use PUDs/fundamentos_da_programacao.pdf, page 1>
 Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page1 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [71 <./PUDs/fundamentos_da_programacao.pdf>]
-<PUDs/fundamentos_da_programacao.pdf, id=552, page=2, 597.50829pt x 845.0471pt>
-
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 2>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 2>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 2>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [72 <./PUDs/fundamentos_da_programacao.pdf>]
-<PUDs/fundamentos_da_programacao.pdf, id=557, page=3, 597.50829pt x 845.0471pt>
-
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 3>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 3>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
-put line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
-<use PUDs/fundamentos_da_programacao.pdf, page 3>
-Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
-put line 1902.
+put line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [73 <./PUDs/fundamentos_da_programacao.pdf>]
-<PUDs/matematica_aplicada.pdf, id=562, 597.50829pt x 845.0471pt>
+<PUDs/fundamentos_da_programacao.pdf, id=570, page=2, 597.50829pt x 845.0471pt>
+
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 2>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 2>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 2>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page2 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [74 <./PUDs/fundamentos_da_programacao.pdf>]
+<PUDs/fundamentos_da_programacao.pdf, id=575, page=3, 597.50829pt x 845.0471pt>
+
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 3>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 3>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fundamentos_da_programacao.pdf Graphic file (type pdf)
+<use PUDs/fundamentos_da_programacao.pdf, page 3>
+Package pdftex.def Info: PUDs/fundamentos_da_programacao.pdf , page3 used on in
+put line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [75 <./PUDs/fundamentos_da_programacao.pdf>]
+<PUDs/matematica_aplicada.pdf, id=580, 597.50829pt x 845.0471pt>
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf  used on input line 2045.
 
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf  used on input line 2045.
 
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/matematica_aplicada.pdf, id=565, page=1, 597.50829pt x 845.0471pt>
+<PUDs/matematica_aplicada.pdf, id=583, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf, page 1>
 Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page1 used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf, page 1>
 Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page1 used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf, page 1>
 Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page1 used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf, page 1>
 Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page1 used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
 <use PUDs/matematica_aplicada.pdf, page 1>
 Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page1 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [74 <./PUDs/matematica_aplicada.pdf>]
-<PUDs/matematica_aplicada.pdf, id=582, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 2>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 2>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 2>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [75 <./PUDs/matematica_aplicada.pdf>]
-<PUDs/matematica_aplicada.pdf, id=587, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 3>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 3>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
-e 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
-<use PUDs/matematica_aplicada.pdf, page 3>
-Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
-e 1902.
+e 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [76 <./PUDs/matematica_aplicada.pdf>]
-<PUDs/metodologia_da_pesquisa_científica.pdf, id=592, 597.50829pt x 845.0471pt
+<PUDs/matematica_aplicada.pdf, id=600, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 2>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 2>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 2>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [77 <./PUDs/matematica_aplicada.pdf>]
+<PUDs/matematica_aplicada.pdf, id=606, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 3>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 3>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/matematica_aplicada.pdf Graphic file (type pdf)
+<use PUDs/matematica_aplicada.pdf, page 3>
+Package pdftex.def Info: PUDs/matematica_aplicada.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [78 <./PUDs/matematica_aplicada.pdf>]
+<PUDs/metodologia_da_pesquisa_científica.pdf, id=611, 597.50829pt x 845.0471pt
 >
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf  used on 
-input line 1902.
+input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf  used on 
-input line 1902.
+input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/metodologia_da_pesquisa_científica.pdf, id=595, page=1, 597.50829pt x 84
+<PUDs/metodologia_da_pesquisa_científica.pdf, id=614, page=1, 597.50829pt x 84
 5.0471pt>
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 1>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page1 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 1>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page1 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 1>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page1 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 1>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page1 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 1>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page1 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [77 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
-<PUDs/metodologia_da_pesquisa_científica.pdf, id=613, page=2, 597.50829pt x 84
-5.0471pt>
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [78 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
-<PUDs/metodologia_da_pesquisa_científica.pdf, id=618, page=3, 597.50829pt x 84
-5.0471pt>
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
-sed on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
-<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
-Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [79 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
-<PUDs/metodologia_da_pesquisa_científica.pdf, id=623, page=4, 597.50829pt x 84
+<PUDs/metodologia_da_pesquisa_científica.pdf, id=631, page=2, 597.50829pt x 84
+5.0471pt>
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 2>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page2 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [80 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
+<PUDs/metodologia_da_pesquisa_científica.pdf, id=636, page=3, 597.50829pt x 84
+5.0471pt>
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
+<use PUDs/metodologia_da_pesquisa_científica.pdf, page 3>
+Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page3 u
+sed on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [81 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
+<PUDs/metodologia_da_pesquisa_científica.pdf, id=641, page=4, 597.50829pt x 84
 5.0471pt>
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 4>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page4 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 4>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page4 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metodologia_da_pesquisa_científica.pdf Graphic file (type pdf)
 <use PUDs/metodologia_da_pesquisa_científica.pdf, page 4>
 Package pdftex.def Info: PUDs/metodologia_da_pesquisa_científica.pdf , page4 u
-sed on input line 1902.
+sed on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [80 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
-<PUDs/metrologia.pdf, id=628, 597.50829pt x 845.0471pt>
+ [82 <./PUDs/metodologia_da_pesquisa_científica.pdf>]
+<PUDs/metrologia.pdf, id=646, 597.50829pt x 845.0471pt>
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf>
-Package pdftex.def Info: PUDs/metrologia.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf>
-Package pdftex.def Info: PUDs/metrologia.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/metrologia.pdf, id=631, page=1, 597.50829pt x 845.0471pt>
+<PUDs/metrologia.pdf, id=649, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf, page 1>
-Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf, page 1>
-Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf, page 1>
-Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf, page 1>
-Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/metrologia.pdf Graphic file (type pdf)
 <use PUDs/metrologia.pdf, page 1>
-Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [81 <./PUDs/metrologia.pdf>]
-<PUDs/metrologia.pdf, id=648, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 2>
-Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 2>
-Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 2>
-Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [82 <./PUDs/metrologia.pdf>]
-<PUDs/metrologia.pdf, id=653, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 3>
-Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 3>
-Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/metrologia.pdf Graphic file (type pdf)
-<use PUDs/metrologia.pdf, page 3>
-Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 1902.
+Package pdftex.def Info: PUDs/metrologia.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [83 <./PUDs/metrologia.pdf>]
-<PUDs/eletronica_Digital_2.pdf, id=659, 597.50829pt x 845.0471pt>
+<PUDs/metrologia.pdf, id=667, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 2>
+Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 2>
+Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 2>
+Package pdftex.def Info: PUDs/metrologia.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [84 <./PUDs/metrologia.pdf>]
+<PUDs/metrologia.pdf, id=672, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 3>
+Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 3>
+Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/metrologia.pdf Graphic file (type pdf)
+<use PUDs/metrologia.pdf, page 3>
+Package pdftex.def Info: PUDs/metrologia.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [85 <./PUDs/metrologia.pdf>]
+<PUDs/eletronica_Digital_2.pdf, id=677, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf  used on input line 1902
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf  used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf  used on input line 1902
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf  used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/eletronica_Digital_2.pdf, id=662, page=1, 597.50829pt x 845.0471pt>
+<PUDs/eletronica_Digital_2.pdf, id=680, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page1 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
 <use PUDs/eletronica_Digital_2.pdf, page 1>
 Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page1 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [84 <./PUDs/eletronica_Digital_2.pdf>]
-<PUDs/eletronica_Digital_2.pdf, id=679, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [85 <./PUDs/eletronica_Digital_2.pdf>]
-<PUDs/eletronica_Digital_2.pdf, id=684, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
-ne 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
-<use PUDs/eletronica_Digital_2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
-ne 1902.
+ne 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [86 <./PUDs/eletronica_Digital_2.pdf>]
-<PUDs/linguagem_de_programacao1.pdf, id=689, 597.50829pt x 845.0471pt>
+<PUDs/eletronica_Digital_2.pdf, id=697, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page2 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [87 <./PUDs/eletronica_Digital_2.pdf>]
+<PUDs/eletronica_Digital_2.pdf, id=702, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_Digital_2.pdf Graphic file (type pdf)
+<use PUDs/eletronica_Digital_2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_Digital_2.pdf , page3 used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [88 <./PUDs/eletronica_Digital_2.pdf>]
+<PUDs/linguagem_de_programacao1.pdf, id=707, 597.50829pt x 845.0471pt>
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf  used on input line
- 1902.
+ 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf  used on input line
- 1902.
+ 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/linguagem_de_programacao1.pdf, id=692, page=1, 597.50829pt x 845.0471pt>
+<PUDs/linguagem_de_programacao1.pdf, id=710, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf, page 1>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf, page 1>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf, page 1>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf, page 1>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
 <use PUDs/linguagem_de_programacao1.pdf, page 1>
 Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page1 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [87 <./PUDs/linguagem_de_programacao1.pdf>]
-<PUDs/linguagem_de_programacao1.pdf, id=709, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 2>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 2>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 2>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-[88 <./PUDs/linguagem_de_programacao1.pdf>]
-<PUDs/linguagem_de_programacao1.pdf, id=714, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 3>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 3>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
-<use PUDs/linguagem_de_programacao1.pdf, page 3>
-Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [89 <./PUDs/linguagem_de_programacao1.pdf>]
-<PUDs/Instrumentacao_eletronica.pdf, id=720, 597.50829pt x 845.0471pt>
+<PUDs/linguagem_de_programacao1.pdf, id=728, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[90 <./PUDs/linguagem_de_programacao1.pdf>]
+<PUDs/linguagem_de_programacao1.pdf, id=733, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programacao1.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programacao1.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programacao1.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [91 <./PUDs/linguagem_de_programacao1.pdf>]
+<PUDs/Instrumentacao_eletronica.pdf, id=738, 597.50829pt x 845.0471pt>
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf  used on input line
- 1902.
+ 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf  used on input line
- 1902.
+ 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/Instrumentacao_eletronica.pdf, id=723, page=1, 597.50829pt x 845.0471pt>
+<PUDs/Instrumentacao_eletronica.pdf, id=741, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf, page 1>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf, page 1>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf, page 1>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf, page 1>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page1 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
 <use PUDs/Instrumentacao_eletronica.pdf, page 1>
 Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page1 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [90 <./PUDs/Instrumentacao_eletronica.pdf>]
-<PUDs/Instrumentacao_eletronica.pdf, id=740, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 2>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 2>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 2>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [91 <./PUDs/Instrumentacao_eletronica.pdf>]
-<PUDs/Instrumentacao_eletronica.pdf, id=745, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 3>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 3>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
-ut line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
-<use PUDs/Instrumentacao_eletronica.pdf, page 3>
-Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [92 <./PUDs/Instrumentacao_eletronica.pdf>]
-<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=750, 597.50829pt x 845.0471pt>
+<PUDs/Instrumentacao_eletronica.pdf, id=758, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [93 <./PUDs/Instrumentacao_eletronica.pdf>]
+<PUDs/Instrumentacao_eletronica.pdf, id=763, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/Instrumentacao_eletronica.pdf Graphic file (type pdf)
+<use PUDs/Instrumentacao_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/Instrumentacao_eletronica.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [94 <./PUDs/Instrumentacao_eletronica.pdf>]
+<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=768, 597.50829pt x 845.0471pt>
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf  used on inpu
-t line 1902.
+t line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf  used on inpu
-t line 1902.
+t line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=753, page=1, 597.50829pt x 845.04
+<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=771, page=1, 597.50829pt x 845.04
 71pt>
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 1>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page1 used 
-on input line 1902.
+on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 1>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page1 used 
-on input line 1902.
+on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 1>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page1 used 
-on input line 1902.
+on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 1>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page1 used 
-on input line 1902.
+on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
 <use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 1>
 Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page1 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [93 <./PUDs/higiene_e_seguranca_do_Trabalho.pdf>]
-<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=770, page=2, 597.50829pt x 845.04
-71pt>
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [94 <./PUDs/higiene_e_seguranca_do_Trabalho.pdf>]
-<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=775, page=3, 597.50829pt x 845.04
-71pt>
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
-on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
-<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
-Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
-on input line 1902.
+on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [95 <./PUDs/higiene_e_seguranca_do_Trabalho.pdf>]
-<PUDs/estatistica.pdf, id=781, 597.50829pt x 845.0471pt>
+<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=789, page=2, 597.50829pt x 845.04
+71pt>
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 2>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page2 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [96 <./PUDs/higiene_e_seguranca_do_Trabalho.pdf>]
+<PUDs/higiene_e_seguranca_do_Trabalho.pdf, id=794, page=3, 597.50829pt x 845.04
+71pt>
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/higiene_e_seguranca_do_Trabalho.pdf Graphic file (type pdf)
+<use PUDs/higiene_e_seguranca_do_Trabalho.pdf, page 3>
+Package pdftex.def Info: PUDs/higiene_e_seguranca_do_Trabalho.pdf , page3 used 
+on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [97 <./PUDs/higiene_e_seguranca_do_Trabalho.pdf>]
+<PUDs/estatistica.pdf, id=799, 597.50829pt x 845.0471pt>
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf>
-Package pdftex.def Info: PUDs/estatistica.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf>
-Package pdftex.def Info: PUDs/estatistica.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/estatistica.pdf, id=784, page=1, 597.50829pt x 845.0471pt>
+<PUDs/estatistica.pdf, id=802, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 1>
-Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 1>
-Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 1>
-Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 1>
-Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 1>
-Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [96 <./PUDs/estatistica.pdf>]
-<PUDs/estatistica.pdf, id=801, page=2, 597.50829pt x 845.0471pt>
+ [98 <./PUDs/estatistica.pdf>]
+<PUDs/estatistica.pdf, id=819, page=2, 597.50829pt x 845.0471pt>
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 2>
-Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/estatistica.pdf Graphic file (type pdf)
-<use PUDs/estatistica.pdf, page 2>
-Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/estatistica.pdf Graphic file (type pdf)
 <use PUDs/estatistica.pdf, page 2>
-Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 1902.
+Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [97 <./PUDs/estatistica.pdf>]
-<PUDs/redes_de_computadores.pdf, id=806, 597.50829pt x 845.0471pt>
+File: PUDs/estatistica.pdf Graphic file (type pdf)
+<use PUDs/estatistica.pdf, page 2>
+Package pdftex.def Info: PUDs/estatistica.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [99 <./PUDs/estatistica.pdf>]
+<PUDs/redes_de_computadores.pdf, id=824, 597.50829pt x 845.0471pt>
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf  used on input line 190
-2.
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf  used on input line 204
+5.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf  used on input line 190
-2.
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf  used on input line 204
+5.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/redes_de_computadores.pdf, id=809, page=1, 597.50829pt x 845.0471pt>
+<PUDs/redes_de_computadores.pdf, id=827, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf, page 1>
 Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page1 used on input l
-ine 1902.
+ine 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf, page 1>
 Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page1 used on input l
-ine 1902.
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf, page 1>
 Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page1 used on input l
-ine 1902.
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf, page 1>
 Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page1 used on input l
-ine 1902.
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
 <use PUDs/redes_de_computadores.pdf, page 1>
 Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page1 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [98 <./PUDs/redes_de_computadores.pdf>]
-<PUDs/redes_de_computadores.pdf, id=826, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 2>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 2>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 2>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-[99 <./PUDs/redes_de_computadores.pdf>]
-<PUDs/redes_de_computadores.pdf, id=831, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 3>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 3>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
-ine 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
-<use PUDs/redes_de_computadores.pdf, page 3>
-Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
-ine 1902.
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [100 <./PUDs/redes_de_computadores.pdf>]
-<PUDs/projetos_sociais.pdf, id=836, 597.50829pt x 845.0471pt>
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf  used on input line 1902.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf  used on input line 1902.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/projetos_sociais.pdf, id=839, page=1, 597.50829pt x 845.0471pt>
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 1>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 1>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 1
-902.
+<PUDs/redes_de_computadores.pdf, id=844, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 2>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 1>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 1
-902.
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 2>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 1>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 1>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [101 <./PUDs/projetos_sociais.pdf>]
-<PUDs/projetos_sociais.pdf, id=857, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 2>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 2>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 2>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [102 <./PUDs/projetos_sociais.pdf>]
-<PUDs/projetos_sociais.pdf, id=862, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 3>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 3>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
-<use PUDs/projetos_sociais.pdf, page 3>
-Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 1
-902.
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 2>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page2 used on input l
+ine 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-[103 <./PUDs/projetos_sociais.pdf>]
-<PUDs/desenho_assistido_por_computador.pdf, id=867, 597.50829pt x 845.0471pt>
+[101 <./PUDs/redes_de_computadores.pdf>]
+<PUDs/redes_de_computadores.pdf, id=850, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 3>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 3>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/redes_de_computadores.pdf Graphic file (type pdf)
+<use PUDs/redes_de_computadores.pdf, page 3>
+Package pdftex.def Info: PUDs/redes_de_computadores.pdf , page3 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [102 <./PUDs/redes_de_computadores.pdf>]
+<PUDs/projetos_sociais.pdf, id=855, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/projetos_sociais.pdf, id=858, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page1 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [103 <./PUDs/projetos_sociais.pdf>]
+<PUDs/projetos_sociais.pdf, id=875, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [104 <./PUDs/projetos_sociais.pdf>]
+<PUDs/projetos_sociais.pdf, id=880, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_sociais.pdf Graphic file (type pdf)
+<use PUDs/projetos_sociais.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_sociais.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[105 <./PUDs/projetos_sociais.pdf>]
+<PUDs/desenho_assistido_por_computador.pdf, id=885, 597.50829pt x 845.0471pt>
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf  used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf  used on inp
-ut line 1902.
+ut line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/desenho_assistido_por_computador.pdf, id=870, page=1, 597.50829pt x 845.0
+<PUDs/desenho_assistido_por_computador.pdf, id=888, page=1, 597.50829pt x 845.0
 471pt>
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf, page 1>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page1 used
- on input line 1902.
+ on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf, page 1>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page1 used
- on input line 1902.
+ on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf, page 1>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page1 used
- on input line 1902.
+ on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf, page 1>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page1 used
- on input line 1902.
+ on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
 <use PUDs/desenho_assistido_por_computador.pdf, page 1>
 Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page1 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [104 <./PUDs/desenho_assistido_por_computador.pdf>]
-<PUDs/desenho_assistido_por_computador.pdf, id=887, page=2, 597.50829pt x 845.0
-471pt>
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 2>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 2>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 2>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [105 <./PUDs/desenho_assistido_por_computador.pdf>]
-<PUDs/desenho_assistido_por_computador.pdf, id=892, page=3, 597.50829pt x 845.0
-471pt>
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 3>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 3>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
- on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
-<use PUDs/desenho_assistido_por_computador.pdf, page 3>
-Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
- on input line 1902.
+ on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [106 <./PUDs/desenho_assistido_por_computador.pdf>]
-<PUDs/calculo_aplicado.pdf, id=897, 597.50829pt x 845.0471pt>
+<PUDs/desenho_assistido_por_computador.pdf, id=905, page=2, 597.50829pt x 845.0
+471pt>
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 2>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 2>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 2>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page2 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [107 <./PUDs/desenho_assistido_por_computador.pdf>]
+<PUDs/desenho_assistido_por_computador.pdf, id=911, page=3, 597.50829pt x 845.0
+471pt>
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 3>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 3>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/desenho_assistido_por_computador.pdf Graphic file (type pdf)
+<use PUDs/desenho_assistido_por_computador.pdf, page 3>
+Package pdftex.def Info: PUDs/desenho_assistido_por_computador.pdf , page3 used
+ on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [108 <./PUDs/desenho_assistido_por_computador.pdf>]
+<PUDs/calculo_aplicado.pdf, id=916, 597.50829pt x 845.0471pt>
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/calculo_aplicado.pdf, id=900, page=1, 597.50829pt x 845.0471pt>
+<PUDs/calculo_aplicado.pdf, id=919, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf, page 1>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf, page 1>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf, page 1>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf, page 1>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
 <use PUDs/calculo_aplicado.pdf, page 1>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [107 <./PUDs/calculo_aplicado.pdf>]
-<PUDs/calculo_aplicado.pdf, id=918, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 2>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 2>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 2>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [108 <./PUDs/calculo_aplicado.pdf>]
-<PUDs/calculo_aplicado.pdf, id=923, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 3>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 3>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
-<use PUDs/calculo_aplicado.pdf, page 3>
-Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 1
-902.
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [109 <./PUDs/calculo_aplicado.pdf>]
-<PUDs/eletricidade2.pdf, id=928, 597.50829pt x 845.0471pt>
+<PUDs/calculo_aplicado.pdf, id=936, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 2>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 2>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 2>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [110 <./PUDs/calculo_aplicado.pdf>]
+<PUDs/calculo_aplicado.pdf, id=941, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 3>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 3>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/calculo_aplicado.pdf Graphic file (type pdf)
+<use PUDs/calculo_aplicado.pdf, page 3>
+Package pdftex.def Info: PUDs/calculo_aplicado.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [111 <./PUDs/calculo_aplicado.pdf>]
+<PUDs/eletricidade2.pdf, id=946, 597.50829pt x 845.0471pt>
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf>
-Package pdftex.def Info: PUDs/eletricidade2.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/eletricidade2.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf>
-Package pdftex.def Info: PUDs/eletricidade2.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/eletricidade2.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/eletricidade2.pdf, id=931, page=1, 597.50829pt x 845.0471pt>
+<PUDs/eletricidade2.pdf, id=949, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf, page 1>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf, page 1>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf, page 1>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf, page 1>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 1902
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletricidade2.pdf Graphic file (type pdf)
 <use PUDs/eletricidade2.pdf, page 1>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [110 <./PUDs/eletricidade2.pdf>]
-<PUDs/eletricidade2.pdf, id=948, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 2>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [111 <./PUDs/eletricidade2.pdf>]
-<PUDs/eletricidade2.pdf, id=953, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 1902
-.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletricidade2.pdf Graphic file (type pdf)
-<use PUDs/eletricidade2.pdf, page 3>
-Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 1902
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page1 used on input line 2045
 .
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [112 <./PUDs/eletricidade2.pdf>]
-<PUDs/fisica1.pdf, id=958, 597.50829pt x 845.0471pt>
+<PUDs/eletricidade2.pdf, id=966, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 2>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page2 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [113 <./PUDs/eletricidade2.pdf>]
+<PUDs/eletricidade2.pdf, id=972, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletricidade2.pdf Graphic file (type pdf)
+<use PUDs/eletricidade2.pdf, page 3>
+Package pdftex.def Info: PUDs/eletricidade2.pdf , page3 used on input line 2045
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [114 <./PUDs/eletricidade2.pdf>]
+<PUDs/fisica1.pdf, id=977, 597.50829pt x 845.0471pt>
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf>
-Package pdftex.def Info: PUDs/fisica1.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf>
-Package pdftex.def Info: PUDs/fisica1.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/fisica1.pdf, id=961, page=1, 597.50829pt x 845.0471pt>
+<PUDs/fisica1.pdf, id=980, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf, page 1>
-Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf, page 1>
-Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf, page 1>
-Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf, page 1>
-Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
 <use PUDs/fisica1.pdf, page 1>
-Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [113 <./PUDs/fisica1.pdf>]
-<PUDs/fisica1.pdf, id=979, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 2>
-Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 2>
-Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 2>
-Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [114 <./PUDs/fisica1.pdf>]
-<PUDs/fisica1.pdf, id=984, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 3>
-Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 3>
-Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 1902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 3>
-Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 1902.
+Package pdftex.def Info: PUDs/fisica1.pdf , page1 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [115 <./PUDs/fisica1.pdf>]
-<PUDs/fisica1.pdf, id=989, page=4, 597.50829pt x 845.0471pt>
+<PUDs/fisica1.pdf, id=997, page=2, 597.50829pt x 845.0471pt>
 File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 4>
-Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 1902.
+<use PUDs/fisica1.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 4>
-Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 1902.
+<use PUDs/fisica1.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/fisica1.pdf Graphic file (type pdf)
-<use PUDs/fisica1.pdf, page 4>
-Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 1902.
+<use PUDs/fisica1.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica1.pdf , page2 used on input line 2045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [116 <./PUDs/fisica1.pdf>]
-<PUDs/eletronica_geral.pdf, id=994, 597.50829pt x 845.0471pt>
+<PUDs/fisica1.pdf, id=1002, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica1.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [117 <./PUDs/fisica1.pdf>]
+<PUDs/fisica1.pdf, id=1007, page=4, 597.50829pt x 845.0471pt>
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 4>
+Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 4>
+Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica1.pdf Graphic file (type pdf)
+<use PUDs/fisica1.pdf, page 4>
+Package pdftex.def Info: PUDs/fisica1.pdf , page4 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [118 <./PUDs/fisica1.pdf>]
+<PUDs/eletronica_geral.pdf, id=1012, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf  used on input line 1902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf  used on input line 2045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<PUDs/eletronica_geral.pdf, id=997, page=1, 597.50829pt x 845.0471pt>
+<PUDs/eletronica_geral.pdf, id=1015, page=1, 597.50829pt x 845.0471pt>
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf, page 1>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf, page 1>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf, page 1>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf, page 1>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 1
-902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
 <use PUDs/eletronica_geral.pdf, page 1>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [117 <./PUDs/eletronica_geral.pdf>]
-<PUDs/eletronica_geral.pdf, id=1014, page=2, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 2>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [118 <./PUDs/eletronica_geral.pdf>]
-<PUDs/eletronica_geral.pdf, id=1019, page=3, 597.50829pt x 845.0471pt>
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 1
-902.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
-<use PUDs/eletronica_geral.pdf, page 3>
-Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 1
-902.
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page1 used on input line 2
+045.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [119 <./PUDs/eletronica_geral.pdf>]
+<PUDs/eletronica_geral.pdf, id=1033, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page2 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [120 <./PUDs/eletronica_geral.pdf>]
+<PUDs/eletronica_geral.pdf, id=1038, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_geral.pdf Graphic file (type pdf)
+<use PUDs/eletronica_geral.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_geral.pdf , page3 used on input line 2
+045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [121 <./PUDs/eletronica_geral.pdf>]
+<PUDs/microprocessadores1.pdf, id=1043, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/microprocessadores1.pdf, id=1046, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [122 <./PUDs/microprocessadores1.pdf>]
+<PUDs/microprocessadores1.pdf, id=1063, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [123 <./PUDs/microprocessadores1.pdf>]
+<PUDs/microprocessadores1.pdf, id=1068, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores1.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores1.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores1.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [124 <./PUDs/microprocessadores1.pdf>]
+<PUDs/projetos_em_eletronica.pdf, id=1073, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/projetos_em_eletronica.pdf, id=1076, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 1>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [125 <./PUDs/projetos_em_eletronica.pdf>]
+<PUDs/projetos_em_eletronica.pdf, id=1094, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 2>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [126 <./PUDs/projetos_em_eletronica.pdf>]
+<PUDs/projetos_em_eletronica.pdf, id=1099, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/projetos_em_eletronica.pdf Graphic file (type pdf)
+<use PUDs/projetos_em_eletronica.pdf, page 3>
+Package pdftex.def Info: PUDs/projetos_em_eletronica.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [127 <./PUDs/projetos_em_eletronica.pdf>]
+<PUDs/eletronica_de_potencia.pdf, id=1104, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/eletronica_de_potencia.pdf, id=1107, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 1>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 1>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 1>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 1>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 1>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [128 <./PUDs/eletronica_de_potencia.pdf>]
+<PUDs/eletronica_de_potencia.pdf, id=1124, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 2>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [129 <./PUDs/eletronica_de_potencia.pdf>]
+<PUDs/eletronica_de_potencia.pdf, id=1129, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/eletronica_de_potencia.pdf Graphic file (type pdf)
+<use PUDs/eletronica_de_potencia.pdf, page 3>
+Package pdftex.def Info: PUDs/eletronica_de_potencia.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[130 <./PUDs/eletronica_de_potencia.pdf>]
+<PUDs/linguagem_de_programação2.pdf, id=1134, 597.50829pt x 845.0471pt>
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf  used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf  used on input li
+ne 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/linguagem_de_programação2.pdf, id=1137, page=1, 597.50829pt x 845.0471p
+t>
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 1>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page1 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 1>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page1 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 1>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page1 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 1>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page1 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 1>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page1 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [131 <./PUDs/linguagem_de_programação2.pdf>]
+<PUDs/linguagem_de_programação2.pdf, id=1155, page=2, 597.50829pt x 845.0471p
+t>
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page2 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page2 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 2>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page2 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [132 <./PUDs/linguagem_de_programação2.pdf>]
+<PUDs/linguagem_de_programação2.pdf, id=1160, page=3, 597.50829pt x 845.0471p
+t>
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page3 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page3 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/linguagem_de_programação2.pdf Graphic file (type pdf)
+<use PUDs/linguagem_de_programação2.pdf, page 3>
+Package pdftex.def Info: PUDs/linguagem_de_programação2.pdf , page3 used on i
+nput line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [133 <./PUDs/linguagem_de_programação2.pdf>]
+<PUDs/fisica2.pdf, id=1165, 597.50829pt x 845.0471pt>
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf>
+Package pdftex.def Info: PUDs/fisica2.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf>
+Package pdftex.def Info: PUDs/fisica2.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/fisica2.pdf, id=1168, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 1>
+Package pdftex.def Info: PUDs/fisica2.pdf , page1 used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 1>
+Package pdftex.def Info: PUDs/fisica2.pdf , page1 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 1>
+Package pdftex.def Info: PUDs/fisica2.pdf , page1 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 1>
+Package pdftex.def Info: PUDs/fisica2.pdf , page1 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 1>
+Package pdftex.def Info: PUDs/fisica2.pdf , page1 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [134 <./PUDs/fisica2.pdf>]
+<PUDs/fisica2.pdf, id=1185, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica2.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica2.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 2>
+Package pdftex.def Info: PUDs/fisica2.pdf , page2 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [135 <./PUDs/fisica2.pdf>]
+<PUDs/fisica2.pdf, id=1190, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica2.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica2.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/fisica2.pdf Graphic file (type pdf)
+<use PUDs/fisica2.pdf, page 3>
+Package pdftex.def Info: PUDs/fisica2.pdf , page3 used on input line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[136 <./PUDs/fisica2.pdf>]
+<PUDs/máquinas_eletricas.pdf, id=1195, 597.50829pt x 845.0471pt>
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/máquinas_eletricas.pdf, id=1198, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 1>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 1>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 1>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 1>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 1>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [137 <./PUDs/máquinas_eletricas.pdf>]
+<PUDs/máquinas_eletricas.pdf, id=1216, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 2>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 2>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 2>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [138 <./PUDs/máquinas_eletricas.pdf>]
+<PUDs/máquinas_eletricas.pdf, id=1221, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 3>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 3>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 3>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [139 <./PUDs/máquinas_eletricas.pdf>]
+<PUDs/máquinas_eletricas.pdf, id=1226, page=4, 597.50829pt x 845.0471pt>
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 4>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page4 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 4>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page4 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/máquinas_eletricas.pdf Graphic file (type pdf)
+<use PUDs/máquinas_eletricas.pdf, page 4>
+Package pdftex.def Info: PUDs/máquinas_eletricas.pdf , page4 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [140 <./PUDs/máquinas_eletricas.pdf>]
+<PUDs/comandos_eletricos.pdf, id=1231, 597.50829pt x 845.0471pt>
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/comandos_eletricos.pdf, id=1234, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 1>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 1>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 1>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 1>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 1>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [141 <./PUDs/comandos_eletricos.pdf>]
+<PUDs/comandos_eletricos.pdf, id=1251, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 2>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 2>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 2>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [142 <./PUDs/comandos_eletricos.pdf>]
+<PUDs/comandos_eletricos.pdf, id=1256, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 3>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 3>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/comandos_eletricos.pdf Graphic file (type pdf)
+<use PUDs/comandos_eletricos.pdf, page 3>
+Package pdftex.def Info: PUDs/comandos_eletricos.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [143 <./PUDs/comandos_eletricos.pdf>]
+<PUDs/elementos_de_maquinas.pdf, id=1262, 597.50829pt x 845.0471pt>
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf  used on input line 204
+5.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf  used on input line 204
+5.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/elementos_de_maquinas.pdf, id=1265, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page1 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page1 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page1 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page1 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page1 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [144 <./PUDs/elementos_de_maquinas.pdf>]
+<PUDs/elementos_de_maquinas.pdf, id=1282, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page2 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page2 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/elementos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/elementos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/elementos_de_maquinas.pdf , page2 used on input l
+ine 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [145 <./PUDs/elementos_de_maquinas.pdf>]
+<PUDs/controle_de_processos1.pdf, id=1287, 597.50829pt x 845.0471pt>
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/controle_de_processos1.pdf, id=1290, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 1>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 1>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 1>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 1>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 1>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [146 <./PUDs/controle_de_processos1.pdf>]
+<PUDs/controle_de_processos1.pdf, id=1307, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 2>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 2>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 2>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [147 <./PUDs/controle_de_processos1.pdf>]
+<PUDs/controle_de_processos1.pdf, id=1312, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 3>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 3>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/controle_de_processos1.pdf Graphic file (type pdf)
+<use PUDs/controle_de_processos1.pdf, page 3>
+Package pdftex.def Info: PUDs/controle_de_processos1.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [148 <./PUDs/controle_de_processos1.pdf>]
+<PUDs/acionamento_pneumatico.pdf, id=1317, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/acionamento_pneumatico.pdf, id=1320, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [149 <./PUDs/acionamento_pneumatico.pdf>]
+<PUDs/acionamento_pneumatico.pdf, id=1338, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[150 <./PUDs/acionamento_pneumatico.pdf>]
+<PUDs/acionamento_pneumatico.pdf, id=1343, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_pneumatico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_pneumatico.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamento_pneumatico.pdf , page3 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [151 <./PUDs/acionamento_pneumatico.pdf>]
+<PUDs/gestao_impresarial.pdf, id=1348, 597.50829pt x 845.0471pt>
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf  used on input line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/gestao_impresarial.pdf, id=1351, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 1>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 1>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 1>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 1>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 1>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page1 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [152 <./PUDs/gestao_impresarial.pdf>]
+<PUDs/gestao_impresarial.pdf, id=1368, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 2>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 2>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 2>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page2 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [153 <./PUDs/gestao_impresarial.pdf>]
+<PUDs/gestao_impresarial.pdf, id=1373, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 3>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 3>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/gestao_impresarial.pdf Graphic file (type pdf)
+<use PUDs/gestao_impresarial.pdf, page 3>
+Package pdftex.def Info: PUDs/gestao_impresarial.pdf , page3 used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [154 <./PUDs/gestao_impresarial.pdf>]
+<PUDs/microprocessadores2.pdf, id=1378, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf  used on input line 2045.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/microprocessadores2.pdf, id=1381, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 1>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page1 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [155 <./PUDs/microprocessadores2.pdf>]
+<PUDs/microprocessadores2.pdf, id=1399, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 2>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page2 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[156 <./PUDs/microprocessadores2.pdf>]
+<PUDs/microprocessadores2.pdf, id=1404, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/microprocessadores2.pdf Graphic file (type pdf)
+<use PUDs/microprocessadores2.pdf, page 3>
+Package pdftex.def Info: PUDs/microprocessadores2.pdf , page3 used on input lin
+e 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [157 <./PUDs/microprocessadores2.pdf>]
+<PUDs/processos_de_fabricacao.pdf, id=1409, 597.50829pt x 845.0471pt>
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf  used on input line 2
+045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf  used on input line 2
+045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/processos_de_fabricacao.pdf, id=1412, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 1>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page1 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 1>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page1 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 1>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page1 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 1>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page1 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 1>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page1 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[158 <./PUDs/processos_de_fabricacao.pdf>]
+<PUDs/processos_de_fabricacao.pdf, id=1429, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 2>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page2 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 2>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page2 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 2>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page2 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [159 <./PUDs/processos_de_fabricacao.pdf>]
+<PUDs/processos_de_fabricacao.pdf, id=1434, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 3>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page3 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 3>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page3 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/processos_de_fabricacao.pdf Graphic file (type pdf)
+<use PUDs/processos_de_fabricacao.pdf, page 3>
+Package pdftex.def Info: PUDs/processos_de_fabricacao.pdf , page3 used on input
+ line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [160 <./PUDs/processos_de_fabricacao.pdf>]
+<PUDs/acionamentos_de_maquinas.pdf, id=1439, 597.50829pt x 845.0471pt>
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf  used on input line 
+2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf  used on input line 
+2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/acionamentos_de_maquinas.pdf, id=1442, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page1 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page1 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page1 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page1 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page1 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [161 <./PUDs/acionamentos_de_maquinas.pdf>]
+<PUDs/acionamentos_de_maquinas.pdf, id=1460, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page2 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page2 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page2 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [162 <./PUDs/acionamentos_de_maquinas.pdf>]
+<PUDs/acionamentos_de_maquinas.pdf, id=1465, page=3, 597.50829pt x 845.0471pt>
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page3 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page3 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamentos_de_maquinas.pdf Graphic file (type pdf)
+<use PUDs/acionamentos_de_maquinas.pdf, page 3>
+Package pdftex.def Info: PUDs/acionamentos_de_maquinas.pdf , page3 used on inpu
+t line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [163 <./PUDs/acionamentos_de_maquinas.pdf>]
+<PUDs/acionamento_hidraulico.pdf, id=1470, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf  used on input line 20
+45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/acionamento_hidraulico.pdf, id=1473, page=1, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 1>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page1 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [164 <./PUDs/acionamento_hidraulico.pdf>]
+<PUDs/acionamento_hidraulico.pdf, id=1490, page=2, 597.50829pt x 845.0471pt>
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/acionamento_hidraulico.pdf Graphic file (type pdf)
+<use PUDs/acionamento_hidraulico.pdf, page 2>
+Package pdftex.def Info: PUDs/acionamento_hidraulico.pdf , page2 used on input 
+line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [165 <./PUDs/acionamento_hidraulico.pdf>]
+<PUDs/instrumentacao_industrial.pdf, id=1495, 597.50829pt x 845.0471pt>
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf  used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf  used on input line
+ 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<PUDs/instrumentacao_industrial.pdf, id=1498, page=1, 597.50829pt x 845.0471pt>
+
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 1>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page1 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 1>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page1 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 1>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page1 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 1>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page1 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 1>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page1 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [166 <./PUDs/instrumentacao_industrial.pdf>]
+<PUDs/instrumentacao_industrial.pdf, id=1515, page=2, 597.50829pt x 845.0471pt>
+
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 2>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 2>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 2>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page2 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[167 <./PUDs/instrumentacao_industrial.pdf>]
+<PUDs/instrumentacao_industrial.pdf, id=1521, page=3, 597.50829pt x 845.0471pt>
+
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 3>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 3>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: PUDs/instrumentacao_industrial.pdf Graphic file (type pdf)
+<use PUDs/instrumentacao_industrial.pdf, page 3>
+Package pdftex.def Info: PUDs/instrumentacao_industrial.pdf , page3 used on inp
+ut line 2045.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [168 <./PUDs/instrumentacao_industrial.pdf>]
 \tf@loq=\write5
 \openout5 = `documento.loq'.
 
@@ -3986,11 +5146,11 @@ L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 38064 strings out of 475248
- 695166 string characters out of 5757813
+ 38423 strings out of 475248
+ 708184 string characters out of 5757813
  1982785 words of memory out of 5000000
- 58462 multiletter control sequences out of 15000+600000
- 614155 words of font info for 314 fonts, out of 8000000 for 9000
+ 58759 multiletter control sequences out of 15000+600000
+ 614545 words of font info for 320 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,17n,110p,2083b,807s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
@@ -4000,9 +5160,9 @@ w/times/utmb8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmbi8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/times/utmr8a.pfb><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/u
 rw/times/utmri8a.pfb>
-Output written on documento.pdf (121 pages, 1238816 bytes).
+Output written on documento.pdf (170 pages, 2031184 bytes).
 PDF statistics:
- 1281 PDF objects out of 1440 (max. 8388607)
- 208 named destinations out of 1000 (max. 500000)
- 61472 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1805 PDF objects out of 2073 (max. 8388607)
+ 261 named destinations out of 1000 (max. 500000)
+ 61971 words of extra memory for PDF output out of 74296 (max. 10000000)
 

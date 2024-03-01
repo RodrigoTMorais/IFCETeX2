@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  22 FEB 2024 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.25)  23 FEB 2024 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1476,7 +1476,7 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 3.
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-No file redes_de_computadores.aux.
+(redes_de_computadores.aux)
 \openout1 = `redes_de_computadores.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -1610,36 +1610,28 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 (C:\Users\haide\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 106.
-
 [1
 
 {C:/Users/haide/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/haid
 e/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./logo-ifce.png>]
- [2] [3]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-(redes_de_computadores.aux)
+ [2] [3] (redes_de_computadores.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 36618 strings out of 475248
- 665657 string characters out of 5757813
+ 36621 strings out of 475248
+ 665840 string characters out of 5757813
  1953785 words of memory out of 5000000
- 57493 multiletter control sequences out of 15000+600000
+ 57494 multiletter control sequences out of 15000+600000
  577536 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,15n,110p,1020b,670s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,15n,110p,1020b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
 b><C:/Users/haide/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pf
 b>
-Output written on redes_de_computadores.pdf (3 pages, 79487 bytes).
+Output written on redes_de_computadores.pdf (3 pages, 79493 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
