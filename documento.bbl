@@ -5,10 +5,51 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[{Federação das Indústrias do Estado do Ceará} 2006]{fiec-sondagem}
+\abntrefinfo{{Federação das Indústrias do Estado do Ceará}}{{Federação
+  das Indústrias do Estado do Ceará}}{2006}
+{{Federação das Indústrias do Estado do Ceará}. \textbf{Sondagem
+  Industrial}. 2006. Disponível em:
+  \url{http://www.fiec.org.br/sondagem_industrial/default.asp}.}
+
+\bibitem[Guia do Estudante]{guia-do-estudante}
+\abntrefinfo{Guia\ldots}{GUIA\ldots}{}
+{GUIA do Estudante. Disponível em:
+  \url{http://guiadoestudante.abril.com.br/profissoes/engenharia-producao/automacao-industrial-602871.shtml}.
+Acesso em 5 de setembro de 2011.}
+
 \bibitem[IEDI 2020]{IEDI}
 \abntrefinfo{IEDI}{IEDI}{2020}
 {IEDI, I. de~Estudos para~o D.~I. Panorama da indústria de transformação
   mundial.
 2020.}
+
+\bibitem[{Instituto Federal de Educação, Ciência e Tecnologia do Ceará}
+  2010]{ifce-rod}
+\abntrefinfo{{Instituto Federal de Educação, Ciência e Tecnologia do
+  Ceará}}{{Instituto Federal de Educação, Ciência e Tecnologia do
+  Ceará}}{2010}
+{{Instituto Federal de Educação, Ciência e Tecnologia do Ceará}.
+  \textbf{Regulamento de Organização Didática (ROD)}. 2010. Disponível em:
+  \url{http://www.ifce.edu.br/images/stories/menu_superior/Ensino/ROD/ROD-Comisso_de_Sistematizao27.pdf}.
+Acesso em 14 de novembro de 2014.}
+
+\bibitem[Relação Anual de Informações Sociais (RAIS)]{rais}
+\abntrefinfo{Relação\ldots}{RELAçãO\ldots}{}
+{RELAçãO Anual de Informações Sociais (RAIS). Disponível em:
+  \url{http://www.mte.gov.br/geral/estatisticas.asp?viewarea=rais}.
+Acesso em 10 de junho de 2011.}
+
+\bibitem[Sagan 2003]{sagan-mundo-assombrado}
+\abntrefinfo{Sagan}{SAGAN}{2003}
+{SAGAN, C. \textbf{O Mundo Assombrado Pelos Demônios: A Ciência Vista como
+  uma Vela no Escuro}. [S.l.]: Companhia das Letras, 2003. 39~p.}
+
+\bibitem[Viana 2010]{viana-industrializacao}
+\abntrefinfo{Viana}{VIANA}{2010}
+{VIANA, K. Industrialização no interior ainda é um desafio a vencer.
+\textbf{Diário do Nordeste}, maio 2010.
+Disponível em:
+  \url{http://diariodonordeste.globo.com/materia.asp?codigo=789274}.}
 
 \end{thebibliography}

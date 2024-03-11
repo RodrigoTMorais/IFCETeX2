@@ -26,8 +26,7 @@
 \contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase []{Estrutura Curricular}}{22}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Organização Curricular}{22}{section.10.1}%
 \contentsline {section}{\numberline {10.2}Matriz Curricular}{24}{section.10.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase []{Fluxograma}}{27}{chapter.11}%
+\contentsline {chapter}{11 \hspace {1.5 cm} FLUXOGRAMA DO CURSO}{27}{quadro.caption.14}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase []{Avaliação de Aprendizagem}}{28}{chapter.12}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
@@ -52,42 +51,42 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {21}\MakeTextUppercase []{Atuação do coordenador}}{41}{chapter.21}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {22}\MakeTextUppercase []{Corpo Docente}}{44}{chapter.22}%
+\contentsline {chapter}{\chapternumberline {22}\MakeTextUppercase []{Corpo Docente}}{43}{chapter.22}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {23}\MakeTextUppercase []{Corpo Técnico Administrativo}}{46}{chapter.23}%
+\contentsline {chapter}{\chapternumberline {23}\MakeTextUppercase []{Corpo Técnico Administrativo}}{45}{chapter.23}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {24}\MakeTextUppercase []{Infraestrutura}}{49}{chapter.24}%
-\contentsline {section}{\numberline {24.1}Biblioteca}{49}{section.24.1}%
-\contentsline {subsection}{\numberline {24.1.1}Produtos e serviços oferecidos pela biblioteca:}{52}{subsection.24.1.1}%
-\contentsline {section}{\numberline {24.2}Infraestrutura Física e recursos materiais}{53}{section.24.2}%
-\contentsline {subsection}{\numberline {24.2.1}Salas para Coordenação de curso}{53}{subsection.24.2.1}%
-\contentsline {subsection}{\numberline {24.2.2}Sala de Professores}{53}{subsection.24.2.2}%
-\contentsline {subsection}{\numberline {24.2.3}Sala de descanso}{53}{subsection.24.2.3}%
-\contentsline {subsection}{\numberline {24.2.4}Instalações Gerais e Salas de Aula}{54}{subsection.24.2.4}%
-\contentsline {subsection}{\numberline {24.2.5}Auditório}{54}{subsection.24.2.5}%
-\contentsline {subsection}{\numberline {24.2.6}Espaço para atendimento aos alunos}{54}{subsection.24.2.6}%
-\contentsline {subsection}{\numberline {24.2.7}Infraestrutura para CPA}{54}{subsection.24.2.7}%
-\contentsline {subsection}{\numberline {24.2.8}Instalações Sanitárias}{54}{subsection.24.2.8}%
-\contentsline {subsection}{\numberline {24.2.9}Espaço de convivência e alimentação}{55}{subsection.24.2.9}%
-\contentsline {subsection}{\numberline {24.2.10}Recursos de tecnologia da informação e comunicação.}{55}{subsection.24.2.10}%
-\contentsline {subsection}{\numberline {24.2.11}Infraestrutura de Laboratório de Informática conectado à internet}{55}{subsection.24.2.11}%
-\contentsline {section}{\numberline {24.3}Infraestrutura de Laboratórios}{56}{section.24.3}%
-\contentsline {subsection}{\numberline {24.3.1}Laboratório de Matemática}{56}{subsection.24.3.1}%
-\contentsline {subsection}{\numberline {24.3.2}Laboratório de Física}{56}{subsection.24.3.2}%
-\contentsline {subsection}{\numberline {24.3.3}Laboratório de sistemas industriais}{56}{subsection.24.3.3}%
-\contentsline {subsection}{\numberline {24.3.4}Laboratório de hidráulica e pneumática}{57}{subsection.24.3.4}%
-\contentsline {subsection}{\numberline {24.3.5}Laboratórios de sistemas digitais.}{57}{subsection.24.3.5}%
-\contentsline {subsection}{\numberline {24.3.6}Laboratório de eletrônica e eletricidade}{58}{subsection.24.3.6}%
-\contentsline {subsection}{\numberline {24.3.7}Laboratório de instalações elétricas.}{59}{subsection.24.3.7}%
-\contentsline {subsection}{\numberline {24.3.8}Laboratório de máquinas elétricas}{59}{subsection.24.3.8}%
-\contentsline {subsection}{\numberline {24.3.9}Laboratório de mecânica}{60}{subsection.24.3.9}%
-\contentsline {subsection}{\numberline {24.3.10}Laboratório de medidas elétricas e metrologia}{61}{subsection.24.3.10}%
-\contentsline {subsection}{\numberline {24.3.11}Laboratório de criação e prototipagem}{62}{subsection.24.3.11}%
+\contentsline {chapter}{\chapternumberline {24}\MakeTextUppercase []{Infraestrutura}}{48}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Biblioteca}{48}{section.24.1}%
+\contentsline {subsection}{\numberline {24.1.1}Produtos e serviços oferecidos pela biblioteca:}{51}{subsection.24.1.1}%
+\contentsline {section}{\numberline {24.2}Infraestrutura Física e recursos materiais}{52}{section.24.2}%
+\contentsline {subsection}{\numberline {24.2.1}Salas para Coordenação de curso}{52}{subsection.24.2.1}%
+\contentsline {subsection}{\numberline {24.2.2}Sala de Professores}{52}{subsection.24.2.2}%
+\contentsline {subsection}{\numberline {24.2.3}Sala de descanso}{52}{subsection.24.2.3}%
+\contentsline {subsection}{\numberline {24.2.4}Instalações Gerais e Salas de Aula}{53}{subsection.24.2.4}%
+\contentsline {subsection}{\numberline {24.2.5}Auditório}{53}{subsection.24.2.5}%
+\contentsline {subsection}{\numberline {24.2.6}Espaço para atendimento aos alunos}{53}{subsection.24.2.6}%
+\contentsline {subsection}{\numberline {24.2.7}Infraestrutura para CPA}{53}{subsection.24.2.7}%
+\contentsline {subsection}{\numberline {24.2.8}Instalações Sanitárias}{53}{subsection.24.2.8}%
+\contentsline {subsection}{\numberline {24.2.9}Espaço de convivência e alimentação}{54}{subsection.24.2.9}%
+\contentsline {subsection}{\numberline {24.2.10}Recursos de tecnologia da informação e comunicação.}{54}{subsection.24.2.10}%
+\contentsline {subsection}{\numberline {24.2.11}Infraestrutura de Laboratório de Informática conectado à internet}{54}{subsection.24.2.11}%
+\contentsline {section}{\numberline {24.3}Infraestrutura de Laboratórios}{55}{section.24.3}%
+\contentsline {subsection}{\numberline {24.3.1}Laboratório de Matemática}{55}{subsection.24.3.1}%
+\contentsline {subsection}{\numberline {24.3.2}Laboratório de Física}{55}{subsection.24.3.2}%
+\contentsline {subsection}{\numberline {24.3.3}Laboratório de sistemas industriais}{55}{subsection.24.3.3}%
+\contentsline {subsection}{\numberline {24.3.4}Laboratório de hidráulica e pneumática}{56}{subsection.24.3.4}%
+\contentsline {subsection}{\numberline {24.3.5}Laboratórios de sistemas digitais.}{56}{subsection.24.3.5}%
+\contentsline {subsection}{\numberline {24.3.6}Laboratório de eletrônica e eletricidade}{57}{subsection.24.3.6}%
+\contentsline {subsection}{\numberline {24.3.7}Laboratório de instalações elétricas.}{58}{subsection.24.3.7}%
+\contentsline {subsection}{\numberline {24.3.8}Laboratório de máquinas elétricas}{58}{subsection.24.3.8}%
+\contentsline {subsection}{\numberline {24.3.9}Laboratório de mecânica}{59}{subsection.24.3.9}%
+\contentsline {subsection}{\numberline {24.3.10}Laboratório de medidas elétricas e metrologia}{60}{subsection.24.3.10}%
+\contentsline {subsection}{\numberline {24.3.11}Laboratório de criação e prototipagem}{61}{subsection.24.3.11}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {25}\MakeTextUppercase []{Plano de migração de grade}}{63}{chapter.25}%
-\contentsline {section}{\numberline {25.1}Da Migração}{63}{section.25.1}%
-\contentsline {section}{\numberline {25.2}Equivalência}{63}{section.25.2}%
+\contentsline {chapter}{\chapternumberline {25}\MakeTextUppercase []{Plano de migração de grade}}{62}{chapter.25}%
+\contentsline {section}{\numberline {25.1}Da Migração}{62}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Equivalência}{62}{section.25.2}%
+\contentsline {chapter}{\hspace {2 cm} \uppercase {Programas de Unidades Didáticas }(PUDs)}{64}{quadro.caption.17}%
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{65}{section*.19}%
-\contentsline {chapter}{Appendices}{65}{section*.20}%
-\contentsline {chapter}{Appendices}{66}{section*.21}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{209}{section*.19}%
+\contentsline {chapter}{APENDICES}{210}{section*.19}%
